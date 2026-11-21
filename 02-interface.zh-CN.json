@@ -1,0 +1,9519 @@
+{
+  "version": "2.34.0",
+  "edits": {
+    "index.html": [
+      [
+        28,
+        "en",
+        "zh-CN"
+      ],
+      [
+        82,
+        "Jetski Web",
+        "Antigravity"
+      ]
+    ],
+    "main.js": [
+      [
+        1366993,
+        "\"Background Task\"",
+        "\"后台任务\""
+      ],
+      [
+        1367437,
+        "\"Background Task\"",
+        "\"后台任务\""
+      ],
+      [
+        1923988,
+        "\"Accept Step\"",
+        "\"接受步骤\""
+      ],
+      [
+        1924026,
+        "\"Reject Step\"",
+        "\"拒绝步骤\""
+      ],
+      [
+        1924068,
+        "\"Toggle Model Selector\"",
+        "\"切换模型选择器\""
+      ],
+      [
+        1924140,
+        "\"Start Voice Recording\"",
+        "\"开始录音\""
+      ],
+      [
+        1924202,
+        "\"Stop Voice Recording\"",
+        "\"停止录音\""
+      ],
+      [
+        1924269,
+        "\"Toggle Voice Recording\"",
+        "\"切换录音状态\""
+      ],
+      [
+        1924329,
+        "\"Mute Voice Mic\"",
+        "\"将麦克风静音\""
+      ],
+      [
+        1924390,
+        "\"Mute Voice Speaker\"",
+        "\"将扬声器静音\""
+      ],
+      [
+        1924455,
+        "\"Toggle Terminal\"",
+        "\"显示或隐藏终端\""
+      ],
+      [
+        1924516,
+        "\"Toggle Word Wrap\"",
+        "\"切换自动换行\""
+      ],
+      [
+        1924596,
+        "\"Toggle Project Selector\"",
+        "\"打开或关闭项目选择器\""
+      ],
+      [
+        1924670,
+        "\"Toggle Environment Selector\"",
+        "\"打开或关闭环境选择器\""
+      ],
+      [
+        1924738,
+        "\"Toggle Side Panel\"",
+        "\"显示或隐藏侧边面板\""
+      ],
+      [
+        1924808,
+        "\"Toggle Maximize Side Panel\"",
+        "\"最大化或还原侧边面板\""
+      ],
+      [
+        1924883,
+        "\"Toggle Overview Panel\"",
+        "\"显示或隐藏概览面板\""
+      ],
+      [
+        1924950,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        1925011,
+        "\"New Window\"",
+        "\"新建窗口\""
+      ],
+      [
+        1925060,
+        "\"Close Tab\"",
+        "\"关闭标签页\""
+      ],
+      [
+        1925111,
+        "\"Open Settings\"",
+        "\"打开设置\""
+      ],
+      [
+        1925171,
+        "\"Split Terminal\"",
+        "\"拆分终端\""
+      ],
+      [
+        1925247,
+        "\"Split Conversation Vertically\"",
+        "\"纵向拆分会话\""
+      ],
+      [
+        1925327,
+        "\"Split Conversation Horizontally\"",
+        "\"横向拆分会话\""
+      ],
+      [
+        1925407,
+        "\"Equalize Split Panes\"",
+        "\"均分窗格\""
+      ],
+      [
+        1925476,
+        "\"New Terminal Tab\"",
+        "\"新建终端标签页\""
+      ],
+      [
+        1925529,
+        "\"New Tab\"",
+        "\"新建标签页\""
+      ],
+      [
+        1925577,
+        "\"Reopen Closed Tab\"",
+        "\"重新打开已关闭的标签页\""
+      ],
+      [
+        1925644,
+        "\"File Picker\"",
+        "\"文件选择器\""
+      ],
+      [
+        1925709,
+        "\"Open Command Palette\"",
+        "\"打开命令面板\""
+      ],
+      [
+        1925777,
+        "\"Open Conversation Picker\"",
+        "\"打开会话选择器\""
+      ],
+      [
+        1925842,
+        "\"Search Conversations\"",
+        "\"搜索会话\""
+      ],
+      [
+        1925907,
+        "\"Open Workspace Selector\"",
+        "\"打开工作区选择器\""
+      ],
+      [
+        1925964,
+        "\"Open in Cider\"",
+        "\"在 Cider 中打开\""
+      ],
+      [
+        1926005,
+        "\"Add to Chat\"",
+        "\"添加到对话\""
+      ],
+      [
+        1926094,
+        "\"Add to Chat\"",
+        "\"添加到对话\""
+      ],
+      [
+        1926137,
+        "\"Quote Selection\"",
+        "\"引用所选内容\""
+      ],
+      [
+        1926211,
+        "\"Side Question Selection\"",
+        "\"就所选内容提问\""
+      ],
+      [
+        1926290,
+        "\"Open in Code Search\"",
+        "\"在代码搜索中打开\""
+      ],
+      [
+        1926341,
+        "\"Comment on Selection\"",
+        "\"评论所选内容\""
+      ],
+      [
+        1926398,
+        "\"Focus Input\"",
+        "\"将焦点移到输入框\""
+      ],
+      [
+        1926439,
+        "\"Zoom In\"",
+        "\"放大\""
+      ],
+      [
+        1926480,
+        "\"Zoom Out\"",
+        "\"缩小\""
+      ],
+      [
+        1926525,
+        "\"Reset Zoom\"",
+        "\"重置缩放\""
+      ],
+      [
+        1926578,
+        "\"Find in Pane\"",
+        "\"在窗格中查找\""
+      ],
+      [
+        1926648,
+        "\"Go Back\"",
+        "\"后退\""
+      ],
+      [
+        1926720,
+        "\"Go Forward\"",
+        "\"前进\""
+      ],
+      [
+        1926799,
+        "\"Code Search\"",
+        "\"代码搜索\""
+      ],
+      [
+        1926852,
+        "\"Automations\"",
+        "\"自动化\""
+      ],
+      [
+        1926918,
+        "\"Select Next Conversation\"",
+        "\"选择下一个会话\""
+      ],
+      [
+        1926985,
+        "\"Select Previous Conversation\"",
+        "\"选择上一个会话\""
+      ],
+      [
+        1927048,
+        "\"Select Sidebar Item 1\"",
+        "\"选择侧边栏第 1 项\""
+      ],
+      [
+        1927131,
+        "\"Select Sidebar Item 2\"",
+        "\"选择侧边栏第 2 项\""
+      ],
+      [
+        1927213,
+        "\"Select Sidebar Item 3\"",
+        "\"选择侧边栏第 3 项\""
+      ],
+      [
+        1927295,
+        "\"Select Sidebar Item 4\"",
+        "\"选择侧边栏第 4 项\""
+      ],
+      [
+        1927377,
+        "\"Select Sidebar Item 5\"",
+        "\"选择侧边栏第 5 项\""
+      ],
+      [
+        1927459,
+        "\"Select Sidebar Item 6\"",
+        "\"选择侧边栏第 6 项\""
+      ],
+      [
+        1927541,
+        "\"Select Sidebar Item 7\"",
+        "\"选择侧边栏第 7 项\""
+      ],
+      [
+        1927624,
+        "\"Select Sidebar Item 8\"",
+        "\"选择侧边栏第 8 项\""
+      ],
+      [
+        1927706,
+        "\"Select Sidebar Item 9\"",
+        "\"选择侧边栏第 9 项\""
+      ],
+      [
+        1927788,
+        "\"Move Conversation Up\"",
+        "\"上移会话\""
+      ],
+      [
+        1927845,
+        "\"Move Conversation Down\"",
+        "\"下移会话\""
+      ],
+      [
+        1927899,
+        "\"Open Keyboard Shortcuts\"",
+        "\"打开键盘快捷键\""
+      ],
+      [
+        1927995,
+        "\"Terminal: Add to Chat\"",
+        "\"终端：添加到对话\""
+      ],
+      [
+        1928052,
+        "\"Refresh gcert Credentials\"",
+        "\"刷新 gcert 凭据\""
+      ],
+      [
+        1928134,
+        "\"Toggle Sidebar\"",
+        "\"显示或隐藏侧边栏\""
+      ],
+      [
+        1928201,
+        "\"Provide Feedback\"",
+        "\"提交反馈\""
+      ],
+      [
+        1928290,
+        "\"Copy Conversation Markdown\"",
+        "\"复制会话 Markdown\""
+      ],
+      [
+        1928388,
+        "\"Archive This Conversation\"",
+        "\"归档此会话\""
+      ],
+      [
+        1928476,
+        "\"Pin This Conversation\"",
+        "\"置顶此会话\""
+      ],
+      [
+        1928559,
+        "\"Unpin This Conversation\"",
+        "\"取消置顶此会话\""
+      ],
+      [
+        1928650,
+        "\"Find in Conversation\"",
+        "\"在会话中查找\""
+      ],
+      [
+        1928735,
+        "\"Jump to Previous Prompt\"",
+        "\"跳转到上一条提示词\""
+      ],
+      [
+        1928825,
+        "\"Jump to Next Prompt\"",
+        "\"跳转到下一条提示词\""
+      ],
+      [
+        1928909,
+        "\"Mark All as Read\"",
+        "\"全部标为已读\""
+      ],
+      [
+        1928990,
+        "\"Mark This Conversation as Read\"",
+        "\"将此会话标为已读\""
+      ],
+      [
+        1929087,
+        "\"Mark This Conversation as Unread\"",
+        "\"将此会话标为未读\""
+      ],
+      [
+        1929195,
+        "\"Rename This Conversation\"",
+        "\"重命名此会话\""
+      ],
+      [
+        1929278,
+        "\"Move to New Group\"",
+        "\"移到新分组\""
+      ],
+      [
+        1929368,
+        "\"Remove from Group\"",
+        "\"从分组中移除\""
+      ],
+      [
+        1929459,
+        "\"Open Trajectory Debug View\"",
+        "\"打开执行轨迹调试视图\""
+      ],
+      [
+        1929554,
+        "\"Copy Conversation ID\"",
+        "\"复制会话 ID\""
+      ],
+      [
+        1929643,
+        "\"Copy Trajectory ID\"",
+        "\"复制执行轨迹 ID\""
+      ],
+      [
+        1929713,
+        "\"Download Diagnostics\"",
+        "\"下载诊断信息\""
+      ],
+      [
+        1929772,
+        "\"Toggle Between Light/Dark Themes\"",
+        "\"切换浅色或深色主题\""
+      ],
+      [
+        1929860,
+        "\"Connect to SSH Host\\u2026\"",
+        "\"连接到 SSH 主机…\""
+      ],
+      [
+        1929937,
+        "\"Stop SSH Server\\u2026\"",
+        "\"停止 SSH 服务器…\""
+      ],
+      [
+        1930023,
+        "\"Switch to This Computer\"",
+        "\"切换到本机\""
+      ],
+      [
+        1930103,
+        "\"Previous Side Panel Tab\"",
+        "\"上一个侧边面板标签页\""
+      ],
+      [
+        1930163,
+        "\"Next Side Panel Tab\"",
+        "\"下一个侧边面板标签页\""
+      ],
+      [
+        1930225,
+        "\"Collapse All Folders\"",
+        "\"折叠所有文件夹\""
+      ],
+      [
+        1930304,
+        "\"Expand All Folders\"",
+        "\"展开所有文件夹\""
+      ],
+      [
+        1930368,
+        "\"Select All\"",
+        "\"全选\""
+      ],
+      [
+        1930407,
+        "\"Select All\"",
+        "\"全选\""
+      ],
+      [
+        1930445,
+        "\"Cancel Generation\"",
+        "\"取消生成\""
+      ],
+      [
+        1930486,
+        "\"Submit Prompt (Alternate to Enter)\"",
+        "\"发送提示词（替代 Enter）\""
+      ],
+      [
+        1937504,
+        "\"Open Folder\"",
+        "\"打开文件夹\""
+      ],
+      [
+        1944276,
+        "\"Default\"",
+        "\"默认\""
+      ],
+      [
+        1944298,
+        "\"The full developer experience.\"",
+        "\"完整的开发体验。\""
+      ],
+      [
+        2017296,
+        "\"Standalone\"",
+        "\"独立会话\""
+      ],
+      [
+        2613383,
+        "\"context\"",
+        "\"上下文\""
+      ],
+      [
+        2613502,
+        "\"file\"",
+        "\"文件\""
+      ],
+      [
+        2613844,
+        "\"file\"",
+        "\"文件\""
+      ],
+      [
+        2614420,
+        "\"Code snippet\"",
+        "\"代码片段\""
+      ],
+      [
+        2614435,
+        "\"Quote\"",
+        "\"引用\""
+      ],
+      [
+        2614713,
+        "\"conversation\"",
+        "\"会话\""
+      ],
+      [
+        2614797,
+        "\"rule\"",
+        "\"规则\""
+      ],
+      [
+        2614899,
+        "\"plugin\"",
+        "\"插件\""
+      ],
+      [
+        2615005,
+        "\"workflow\"",
+        "\"工作流\""
+      ],
+      [
+        2615157,
+        "\"context\"",
+        "\"上下文\""
+      ],
+      [
+        2615404,
+        "\"terminal\"",
+        "\"终端\""
+      ],
+      [
+        2616823,
+        "\"context\"",
+        "\"上下文\""
+      ],
+      [
+        2616868,
+        "\"context\"",
+        "\"上下文\""
+      ],
+      [
+        2878736,
+        "\"Typeahead menu\"",
+        "\"联想菜单\""
+      ],
+      [
+        2924970,
+        "\"File Explorer\"",
+        "\"文件资源管理器\""
+      ],
+      [
+        2995587,
+        "\"Sign in again\"",
+        "\"重新登录\""
+      ],
+      [
+        3183685,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        3184120,
+        "\"Other conversation\"",
+        "\"其他会话\""
+      ],
+      [
+        3184141,
+        "\"No conversation\"",
+        "\"暂无会话\""
+      ],
+      [
+        3472394,
+        "\"Save Video\"",
+        "\"保存视频\""
+      ],
+      [
+        3472407,
+        "\"Save Image\"",
+        "\"保存图片\""
+      ],
+      [
+        3472592,
+        "\"Copy Image\"",
+        "\"复制图片\""
+      ],
+      [
+        3472717,
+        "\"Open in Tab\"",
+        "\"在标签页中打开\""
+      ],
+      [
+        3472812,
+        "\"Open in New Tab\"",
+        "\"在新标签页中打开\""
+      ],
+      [
+        3486142,
+        " seconds",
+        " 秒"
+      ],
+      [
+        3486953,
+        "\"Muted\"",
+        "\"已静音\""
+      ],
+      [
+        3490701,
+        "\"Pause (k)\"",
+        "\"暂停（k）\""
+      ],
+      [
+        3490713,
+        "\"Play (k)\"",
+        "\"播放（k）\""
+      ],
+      [
+        3492176,
+        "\"2x playback speed\"",
+        "\"2 倍播放速度\""
+      ],
+      [
+        3492901,
+        "\"Seek\"",
+        "\"跳转播放位置\""
+      ],
+      [
+        3493206,
+        "\"Pause (k)\"",
+        "\"暂停（k）\""
+      ],
+      [
+        3493218,
+        "\"Play (k)\"",
+        "\"播放（k）\""
+      ],
+      [
+        3493334,
+        "\"Back 5s (\\u2190)\"",
+        "\"后退 5 秒（←）\""
+      ],
+      [
+        3493428,
+        "\"Forward 5s (\\u2192)\"",
+        "\"前进 5 秒（→）\""
+      ],
+      [
+        3493584,
+        "\"Unmute (m)\"",
+        "\"取消静音（m）\""
+      ],
+      [
+        3493597,
+        "\"Mute (m)\"",
+        "\"静音（m）\""
+      ],
+      [
+        3493875,
+        "\"Volume\"",
+        "\"音量\""
+      ],
+      [
+        3494391,
+        "\"Playback speed (< / >)\"",
+        "\"播放速度（< / >）\""
+      ],
+      [
+        3494430,
+        "Playback speed ",
+        "播放速度 "
+      ],
+      [
+        3494449,
+        "x",
+        " 倍"
+      ],
+      [
+        3494758,
+        "\"Exit fullscreen (f)\"",
+        "\"退出全屏（f）\""
+      ],
+      [
+        3494780,
+        "\"Fullscreen (f)\"",
+        "\"全屏（f）\""
+      ],
+      [
+        3497579,
+        "\"Zoom\"",
+        "\"缩放\""
+      ],
+      [
+        3497763,
+        "\"Zoom out (-)\"",
+        "\"缩小（-）\""
+      ],
+      [
+        3497975,
+        "\"Reset zoom (0)\"",
+        "\"重置缩放（0）\""
+      ],
+      [
+        3498007,
+        "Zoom ",
+        "缩放 "
+      ],
+      [
+        3498016,
+        "%, reset to fit",
+        "%，点击恢复自适应大小"
+      ],
+      [
+        3498354,
+        "\"Zoom in (+)\"",
+        "\"放大（+）\""
+      ],
+      [
+        3519916,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        3525462,
+        "\"Loading media...\"",
+        "\"正在加载媒体…\""
+      ],
+      [
+        3526911,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        3526920,
+        "\"Copy image\"",
+        "\"复制图片\""
+      ],
+      [
+        3527050,
+        "\"Download video\"",
+        "\"下载视频\""
+      ],
+      [
+        3527067,
+        "\"Download image\"",
+        "\"下载图片\""
+      ],
+      [
+        3527283,
+        "\"Close (Esc)\"",
+        "\"关闭（Esc）\""
+      ],
+      [
+        3527970,
+        "\"Previous (\\u2190)\"",
+        "\"上一项（←）\""
+      ],
+      [
+        3527990,
+        "\"Previous\"",
+        "\"上一项\""
+      ],
+      [
+        3528201,
+        "\"Next (\\u2192)\"",
+        "\"下一项（→）\""
+      ],
+      [
+        3528217,
+        "\"Next\"",
+        "\"下一步\""
+      ],
+      [
+        3535098,
+        "\"Add inline comment\"",
+        "\"添加行内评论\""
+      ],
+      [
+        3535387,
+        "\"Stop recording\"",
+        "\"停止录制\""
+      ],
+      [
+        3535404,
+        "\"Record voice memo\"",
+        "\"录制语音备忘\""
+      ],
+      [
+        3560254,
+        "\"Dev mode: Localhost server automatically detected\"",
+        "\"开发模式：已自动检测到本地服务器\""
+      ],
+      [
+        3595487,
+        "\"Default\"",
+        "\"默认\""
+      ],
+      [
+        3597465,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        3599050,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        3605354,
+        "\"Status\"",
+        "\"状态\""
+      ],
+      [
+        3605396,
+        "\"Project\"",
+        "\"项目\""
+      ],
+      [
+        3605481,
+        "\"Comments\"",
+        "\"评论\""
+      ],
+      [
+        3608958,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        3609227,
+        "\"Run\"",
+        "\"运行\""
+      ],
+      [
+        3609701,
+        "\"Connect GitHub\"",
+        "\"连接 GitHub\""
+      ],
+      [
+        3613011,
+        "\"Branch\"",
+        "\"分支\""
+      ],
+      [
+        3808233,
+        "\"Edit comment\"",
+        "\"编辑评论\""
+      ],
+      [
+        3808261,
+        "\"Edit comment\"",
+        "\"编辑评论\""
+      ],
+      [
+        3819022,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        3819256,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        3822395,
+        "\"Default\"",
+        "\"默认\""
+      ],
+      [
+        3822684,
+        "\"Auto\"",
+        "\"自动\""
+      ],
+      [
+        4163482,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4163976,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4164518,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4219667,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4226051,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4226372,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4299715,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4300212,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        4383990,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        4402548,
+        "\"Open in new tab\"",
+        "\"在新标签页中打开\""
+      ],
+      [
+        4404309,
+        "\"Retry\"",
+        "\"重试\""
+      ],
+      [
+        4405310,
+        "\"Open in new tab\"",
+        "\"在新标签页中打开\""
+      ],
+      [
+        4476984,
+        "\"Cut\"",
+        "\"剪切\""
+      ],
+      [
+        4477242,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        4477327,
+        "\"Paste\"",
+        "\"粘贴\""
+      ],
+      [
+        4477919,
+        "\"Select All\"",
+        "\"全选\""
+      ],
+      [
+        4483534,
+        "\"Reload\"",
+        "\"重新加载\""
+      ],
+      [
+        4483549,
+        "\"Reload\"",
+        "\"重新加载\""
+      ],
+      [
+        4484012,
+        "\"Open in new tab\"",
+        "\"在新标签页中打开\""
+      ],
+      [
+        4484037,
+        "\"Open in new tab\"",
+        "\"在新标签页中打开\""
+      ],
+      [
+        4664116,
+        "\"Advanced\"",
+        "\"高级\""
+      ],
+      [
+        4850467,
+        "\"Cut\"",
+        "\"剪切\""
+      ],
+      [
+        4880360,
+        "\"Paste\"",
+        "\"粘贴\""
+      ],
+      [
+        4880419,
+        "\"Select All\"",
+        "\"全选\""
+      ],
+      [
+        4885615,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        4885840,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        4886060,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        4886816,
+        "\"Edit comment\"",
+        "\"编辑评论\""
+      ],
+      [
+        4887964,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        4898981,
+        "\"Comment\"",
+        "\"评论\""
+      ],
+      [
+        4899393,
+        "\"Quote\"",
+        "\"引用\""
+      ],
+      [
+        4899634,
+        "\"Open in Code Search\"",
+        "\"在代码搜索中打开\""
+      ],
+      [
+        4900003,
+        "\"Open in Code Search\"",
+        "\"在代码搜索中打开\""
+      ],
+      [
+        4917774,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        4917962,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        4920830,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        4920937,
+        "\"OK\"",
+        "\"确定\""
+      ],
+      [
+        4925522,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        4926107,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        4927818,
+        "\"Certificate details\"",
+        "\"证书详情\""
+      ],
+      [
+        4927958,
+        "\"Certificate details\"",
+        "\"证书详情\""
+      ],
+      [
+        4931346,
+        "\"Security\"",
+        "\"安全\""
+      ],
+      [
+        4933250,
+        "\"Certificate details\"",
+        "\"证书详情\""
+      ],
+      [
+        4938208,
+        "\"Downloads\"",
+        "\"下载\""
+      ],
+      [
+        4938226,
+        "\"Downloads\"",
+        "\"下载\""
+      ],
+      [
+        4939358,
+        "\"Downloads\"",
+        "\"下载\""
+      ],
+      [
+        4939652,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        4941331,
+        "Open ",
+        "打开 "
+      ],
+      [
+        4942065,
+        "\"Agent\"",
+        "\"智能体\""
+      ],
+      [
+        4942930,
+        "\"Show in folder\"",
+        "\"在文件夹中显示\""
+      ],
+      [
+        4944726,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        4944739,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        4945102,
+        "\"Forward\"",
+        "\"前进\""
+      ],
+      [
+        4945118,
+        "\"Forward\"",
+        "\"前进\""
+      ],
+      [
+        4945478,
+        "\"Reload\"",
+        "\"重新加载\""
+      ],
+      [
+        4945493,
+        "\"Reload\"",
+        "\"重新加载\""
+      ],
+      [
+        4980090,
+        "\"This page isn\\u2019t working\"",
+        "\"此页面无法正常显示\""
+      ],
+      [
+        5014434,
+        "\"Cut\"",
+        "\"剪切\""
+      ],
+      [
+        5014629,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        5014765,
+        "\"Paste\"",
+        "\"粘贴\""
+      ],
+      [
+        5014949,
+        "\"Select All\"",
+        "\"全选\""
+      ],
+      [
+        5015502,
+        "\"Comment\"",
+        "\"评论\""
+      ],
+      [
+        5015705,
+        "\"Quote\"",
+        "\"引用\""
+      ],
+      [
+        5015972,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        5016218,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5016324,
+        "\"Forward\"",
+        "\"前进\""
+      ],
+      [
+        5016438,
+        "\"Reload\"",
+        "\"重新加载\""
+      ],
+      [
+        5019412,
+        "\"Reload\"",
+        "\"重新加载\""
+      ],
+      [
+        5066098,
+        "\"Failed to parse settings. Fix and restart.\"",
+        "\"无法解析设置。请修正后重启。\""
+      ],
+      [
+        5066388,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        5066397,
+        "\"Copy error messages\"",
+        "\"复制错误信息\""
+      ],
+      [
+        5066427,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        5066436,
+        "\"Copy error messages\"",
+        "\"复制错误信息\""
+      ],
+      [
+        5068641,
+        "\"Chat\"",
+        "\"对话\""
+      ],
+      [
+        5068694,
+        "\"Chat Layout\"",
+        "\"对话布局\""
+      ],
+      [
+        5068794,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        5068844,
+        "\"Accessibility\"",
+        "\"无障碍\""
+      ],
+      [
+        5068951,
+        "\"Input Box\"",
+        "\"输入框\""
+      ],
+      [
+        5069209,
+        "\"General\"",
+        "\"常规\""
+      ],
+      [
+        5069292,
+        "\"Quota\"",
+        "\"配额\""
+      ],
+      [
+        5069366,
+        "\"Default Customizations\"",
+        "\"默认自定义项\""
+      ],
+      [
+        5069447,
+        "\"Customize Global Skills\"",
+        "\"自定义全局技能\""
+      ],
+      [
+        5069527,
+        "\"Custom Agents\"",
+        "\"自定义智能体\""
+      ],
+      [
+        5069604,
+        "\"MCP Servers\"",
+        "\"MCP 服务器\""
+      ],
+      [
+        5069700,
+        "\"General\"",
+        "\"常规\""
+      ],
+      [
+        5069819,
+        "\"General\"",
+        "\"常规\""
+      ],
+      [
+        5069886,
+        "\"Updater\"",
+        "\"更新程序\""
+      ],
+      [
+        5070495,
+        "\"Queued messages\"",
+        "\"排队消息\""
+      ],
+      [
+        5070525,
+        "\"Configure when follow-up messages are sent.\"",
+        "\"设置后续消息的发送时机。\""
+      ],
+      [
+        5070892,
+        "\"Send Immediately\"",
+        "\"立即发送\""
+      ],
+      [
+        5070925,
+        "\"Queue\"",
+        "\"排队\""
+      ],
+      [
+        5071030,
+        "\"Interrupt the agent and send immediately.\"",
+        "\"中断智能体并立即发送。\""
+      ],
+      [
+        5071088,
+        "\"Queue until after the current turn.\"",
+        "\"等待当前轮次结束后发送。\""
+      ],
+      [
+        5071225,
+        "\"Enter to send\"",
+        "\"按 Enter 发送\""
+      ],
+      [
+        5071253,
+        "\"Send messages with the keyboard's Enter key instead of starting a new line.\"",
+        "\"按 Enter 键发送消息。\""
+      ],
+      [
+        5071422,
+        "\"Send message\"",
+        "\"发送消息\""
+      ],
+      [
+        5071449,
+        "\"Choose which key sends a message in the chat composer.\"",
+        "\"选择在输入框中发送消息的快捷键。\""
+      ],
+      [
+        5071785,
+        "\"Press Cmd+Enter to send, Enter for a new line.\"",
+        "\"按 Cmd+Enter 发送，按 Enter 换行。\""
+      ],
+      [
+        5071834,
+        "\"Press Ctrl+Enter to send, Enter for a new line.\"",
+        "\"按 Ctrl+Enter 发送，按 Enter 换行。\""
+      ],
+      [
+        5071898,
+        "\"Press Enter to send, Shift+Enter for a new line.\"",
+        "\"按 Enter 发送，按 Shift+Enter 换行。\""
+      ],
+      [
+        5072046,
+        "\"Command setup script\"",
+        "\"命令初始化脚本\""
+      ],
+      [
+        5072081,
+        "\"A shell setup script run before every command the agent executes.\"",
+        "\"智能体每次运行命令前执行的 Shell 初始化脚本。\""
+      ],
+      [
+        5072309,
+        "\"Enable terminal sandbox\"",
+        "\"启用终端沙盒\""
+      ],
+      [
+        5072347,
+        "\"Run terminal commands with sandbox restrictions.\"",
+        "\"在沙盒限制下运行终端命令。\""
+      ],
+      [
+        5072496,
+        "\"Terminal command auto execution\"",
+        "\"自动执行终端命令\""
+      ],
+      [
+        5074146,
+        "\"Enable Sounds for Agent\"",
+        "\"启用智能体提示音\""
+      ],
+      [
+        5074184,
+        "\"Play a sound when your action is needed or the agent finishes.\"",
+        "\"需要你操作或智能体完成任务时播放提示音。\""
+      ],
+      [
+        5074357,
+        "\"Enable Notifications for Agent\"",
+        "\"启用智能体通知\""
+      ],
+      [
+        5074402,
+        "\"Show system notifications when your action is needed or the agent finishes.\"",
+        "\"需要你操作或智能体完成任务时显示系统通知。\""
+      ],
+      [
+        5074579,
+        "\"Conversation Steps\"",
+        "\"会话步骤\""
+      ],
+      [
+        5074612,
+        "\"Choose how much detail is shown during a conversation.\"",
+        "\"选择会话中显示的详细程度。\""
+      ],
+      [
+        5074839,
+        "\"Custom Context Menus\"",
+        "\"自定义右键菜单\""
+      ],
+      [
+        5074874,
+        "\"Replace the default browser right-click menu with quick actions.\"",
+        "\"将默认浏览器右键菜单替换为快捷操作。\""
+      ],
+      [
+        5075032,
+        "\"Screen Reader Mode\"",
+        "\"屏幕阅读器模式\""
+      ],
+      [
+        5075065,
+        "\"Optimize the interface and terminal output for screen readers.\"",
+        "\"优化界面和终端输出，使其更适合屏幕阅读器。\""
+      ],
+      [
+        5075222,
+        "\"Conversation Width\"",
+        "\"会话宽度\""
+      ],
+      [
+        5075255,
+        "\"Configure the maximum width of the conversation panel.\"",
+        "\"设置会话面板的最大宽度。\""
+      ],
+      [
+        5075553,
+        "\"Terminal Placement\"",
+        "\"终端位置\""
+      ],
+      [
+        5075586,
+        "\"Choose where terminal sessions appear.\"",
+        "\"选择终端会话的显示位置。\""
+      ],
+      [
+        5075861,
+        "\"Markdown Artifact Width\"",
+        "\"Markdown 产物宽度\""
+      ],
+      [
+        5075899,
+        "\"Configure the default width of markdown artifacts.\"",
+        "\"设置 Markdown 产物的默认宽度。\""
+      ],
+      [
+        5076179,
+        "\"Context and Quota Indicator\"",
+        "\"上下文和配额指示器\""
+      ],
+      [
+        5076221,
+        "\"Show how full the context window is next to the send button. Click it for a breakdown and to see your model quota.\"",
+        "\"在发送按钮旁显示上下文窗口的使用情况。点击可查看明细及模型配额。\""
+      ],
+      [
+        5076432,
+        "\"Open Links In\"",
+        "\"链接打开位置\""
+      ],
+      [
+        5076460,
+        "\"Choose where links open by default when clicked.\"",
+        "\"选择点击链接时默认在哪打开。\""
+      ],
+      [
+        5076897,
+        "\"Enable Browser Agent\"",
+        "\"启用浏览器智能体\""
+      ],
+      [
+        5077309,
+        "\"Browser Javascript Execution Policy\"",
+        "\"浏览器 JavaScript 执行策略\""
+      ],
+      [
+        5077359,
+        "\"Controls whether the agent can run custom JavaScript to automate complex browser actions.\"",
+        "\"设置是否允许智能体运行自定义 JavaScript 来自动完成复杂的浏览器操作。\""
+      ],
+      [
+        5078866,
+        "\"Prevent Sleep\"",
+        "\"阻止休眠\""
+      ],
+      [
+        5078894,
+        "\"Prevent the computer from sleeping while the app is running.\"",
+        "\"应用运行时阻止计算机进入睡眠状态。\""
+      ],
+      [
+        5079041,
+        "\"Keep In Menu Bar\"",
+        "\"保留在菜单栏\""
+      ],
+      [
+        5079072,
+        "\"Keep the app accessible from the menu bar and running in the background when all windows are closed.\"",
+        "\"关闭所有窗口后，应用仍在后台运行，可从菜单栏打开。\""
+      ],
+      [
+        5079262,
+        "\"Automatic Check for Updates\"",
+        "\"自动检查更新\""
+      ],
+      [
+        5079304,
+        "\"Automatically prompt you to restart the app when a new update is available. When disabled, you can check for updates manually from the app menu.\"",
+        "\"有更新时自动提示重启应用。关闭后，可在应用菜单中手动检查更新。\""
+      ],
+      [
+        5079544,
+        "\"Enable Remote Control\"",
+        "\"启用远程控制\""
+      ],
+      [
+        5079580,
+        "\"Manage your conversations from the companion website.\"",
+        "\"通过配套网站管理会话。\""
+      ],
+      [
+        5079729,
+        "\"Nickname\"",
+        "\"昵称\""
+      ],
+      [
+        5079752,
+        "\"A nickname for identifying this application in the companion website. Changing this will restart the connection.\"",
+        "\"此昵称用于在配套网站上识别当前应用。更改后将重新连接。\""
+      ],
+      [
+        5080100,
+        "\"Default workspace VCS\"",
+        "\"工作区默认版本控制系统\""
+      ],
+      [
+        5080499,
+        "\"Default Cog repository\"",
+        "\"默认 Cog 仓库\""
+      ],
+      [
+        5080821,
+        "\"Default Cog branch / ref\"",
+        "\"默认 Cog 分支或引用\""
+      ],
+      [
+        5081103,
+        "\"Sync JJ worktrees to head\"",
+        "\"将 JJ 工作树同步到 HEAD\""
+      ],
+      [
+        5081143,
+        "\"Sync newly created JJ worktrees to head when starting a conversation.\"",
+        "\"新建会话时，将新创建的 JJ 工作树同步到 HEAD。\""
+      ],
+      [
+        5084918,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5085023,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5085585,
+        "",
+        ",label:\"常规\""
+      ],
+      [
+        5085612,
+        "\"Projects\"",
+        "\"项目\""
+      ],
+      [
+        5085647,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        5085686,
+        "\"Environments\"",
+        "\"环境\""
+      ],
+      [
+        5085722,
+        "\"Application\"",
+        "\"应用\""
+      ],
+      [
+        5085757,
+        "",
+        ",label:\"外观\""
+      ],
+      [
+        5085778,
+        "",
+        ",label:\"快捷键\""
+      ],
+      [
+        5085803,
+        "",
+        ",label:\"通知\""
+      ],
+      [
+        5085821,
+        "",
+        ",label:\"模型\""
+      ],
+      [
+        5085847,
+        "",
+        ",label:\"自定义\""
+      ],
+      [
+        5085866,
+        "",
+        ",label:\"浏览器\""
+      ],
+      [
+        5085887,
+        "",
+        ",label:\"开发者\""
+      ],
+      [
+        5085906,
+        "",
+        ",label:\"运行中\""
+      ],
+      [
+        5085929,
+        "",
+        ",label:\"Jetski 对话\""
+      ],
+      [
+        5086110,
+        "[\"Provide Feedback\",\"Give Feedback\"]",
+        "[\"Provide Feedback\",\"提交反馈\"]"
+      ],
+      [
+        5091991,
+        "\"Global\"",
+        "\"全局\""
+      ],
+      [
+        5128368,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        5147676,
+        "\"Not configured\"",
+        "\"未配置\""
+      ],
+      [
+        5147931,
+        "\"Choose a Subscription\"",
+        "\"选择订阅方案\""
+      ],
+      [
+        5149527,
+        "\"Global\"",
+        "\"全局\""
+      ],
+      [
+        5152218,
+        "\"Continue\"",
+        "\"继续\""
+      ],
+      [
+        5156071,
+        "\"Permanently delete your remote conversations, projects, scheduled tasks, connected plugins and settings. Data in the desktop app and your Google account are not affected.\"",
+        "\"永久删除远程会话、项目、计划任务、已连接的插件和设置。桌面应用的数据和 Google 账号数据不受影响。\""
+      ],
+      [
+        5157155,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5159274,
+        "\"Account\"",
+        "\"账号\""
+      ],
+      [
+        5159384,
+        "\"General\"",
+        "\"常规\""
+      ],
+      [
+        5159867,
+        "\"Account\"",
+        "\"账号\""
+      ],
+      [
+        5160355,
+        "\"Manage\"",
+        "\"管理\""
+      ],
+      [
+        5160719,
+        "\"Upgrade\"",
+        "\"升级\""
+      ],
+      [
+        5161386,
+        "\"Select Project\"",
+        "\"选择项目\""
+      ],
+      [
+        5161489,
+        "\"Email\"",
+        "\"电子邮箱\""
+      ],
+      [
+        5161572,
+        "\"Email\"",
+        "\"电子邮箱\""
+      ],
+      [
+        5161848,
+        "\"Signing Out...\"",
+        "\"正在退出登录…\""
+      ],
+      [
+        5161865,
+        "\"Sign Out\"",
+        "\"退出登录\""
+      ],
+      [
+        5161974,
+        "Sign in from the ",
+        "请在 "
+      ],
+      [
+        5161996,
+        " panel.",
+        " 面板中登录。"
+      ],
+      [
+        5162006,
+        "Sign in to use ",
+        "登录后即可使用 "
+      ],
+      [
+        5162026,
+        "!",
+        "！"
+      ],
+      [
+        5162222,
+        "\"Sign In\"",
+        "\"登录\""
+      ],
+      [
+        5162618,
+        "\"Terms of Service\"",
+        "\"服务条款\""
+      ],
+      [
+        5163332,
+        "\"Version\"",
+        "\"版本\""
+      ],
+      [
+        5254354,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        5255239,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        5255248,
+        "\"Copy link\"",
+        "\"复制链接\""
+      ],
+      [
+        5255268,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        5255277,
+        "\"Copy link\"",
+        "\"复制链接\""
+      ],
+      [
+        5256863,
+        "\"Enable Remote Control\"",
+        "\"启用远程控制\""
+      ],
+      [
+        5259913,
+        "\"Connected\"",
+        "\"已连接\""
+      ],
+      [
+        5259925,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        5301857,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5302126,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        5302996,
+        "\"Saved\"",
+        "\"已保存\""
+      ],
+      [
+        5304146,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        5304177,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        5315498,
+        "\"Keyboard shortcuts\"",
+        "\"键盘快捷键\""
+      ],
+      [
+        5318262,
+        "\"Application\"",
+        "\"应用\""
+      ],
+      [
+        5318735,
+        "\"Appearance\"",
+        "\"外观\""
+      ],
+      [
+        5321911,
+        "\"Edit\"",
+        "\"编辑\""
+      ],
+      [
+        5322164,
+        "\"Remove\"",
+        "\"移除\""
+      ],
+      [
+        5322827,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        5323987,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5324791,
+        "\"Clear search\"",
+        "\"清空搜索\""
+      ],
+      [
+        5326546,
+        "\"Manage\"",
+        "\"管理\""
+      ],
+      [
+        5326823,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        5328823,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5329011,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        5330964,
+        "\"Retry\"",
+        "\"重试\""
+      ],
+      [
+        5333312,
+        "\"Browser Actuation Permissions\"",
+        "\"浏览器操作权限\""
+      ],
+      [
+        5337031,
+        "\"Reset\"",
+        "\"重置\""
+      ],
+      [
+        5338004,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        5339047,
+        "\"Edit\"",
+        "\"编辑\""
+      ],
+      [
+        5339092,
+        "\"Browser\"",
+        "\"浏览器\""
+      ],
+      [
+        5340550,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        5344757,
+        "\"Auto (detected)\"",
+        "\"自动检测\""
+      ],
+      [
+        5344894,
+        "\"Unknown\"",
+        "\"未知\""
+      ],
+      [
+        5344935,
+        "\"Auto (detected)\"",
+        "\"自动检测\""
+      ],
+      [
+        5346441,
+        "\"Auto (detected)\"",
+        "\"自动检测\""
+      ],
+      [
+        5353115,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        5353179,
+        "\"Workspace folder suggestions\"",
+        "\"工作区文件夹建议\""
+      ],
+      [
+        5353917,
+        "\"No matching project folders. Apply to use the custom URI.\"",
+        "\"没有匹配的项目文件夹。点击“应用”可使用自定义 URI。\""
+      ],
+      [
+        5354776,
+        "\"Developer\"",
+        "\"开发者\""
+      ],
+      [
+        5358157,
+        "\"How this feature would help you and other users\"",
+        "\"这项功能能为你和其他用户带来哪些帮助？\""
+      ],
+      [
+        5368576,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        5378934,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5409815,
+        "\"Model Quota\"",
+        "\"模型配额\""
+      ],
+      [
+        5410083,
+        "\"Model Quota\"",
+        "\"模型配额\""
+      ],
+      [
+        5411319,
+        "\"Upgrade\"",
+        "\"升级\""
+      ],
+      [
+        5412503,
+        "\"Model Quota\"",
+        "\"模型配额\""
+      ],
+      [
+        5413152,
+        "\"Volume\"",
+        "\"音量\""
+      ],
+      [
+        5414106,
+        "\"Notifications\"",
+        "\"通知\""
+      ],
+      [
+        5414204,
+        "\"General\"",
+        "\"常规\""
+      ],
+      [
+        5415231,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        5435671,
+        "\"Background tasks and terminals agents left running, across all conversations.\"",
+        "\"所有会话中仍在运行的后台任务和终端。\""
+      ],
+      [
+        5435828,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        5435846,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        5436437,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        5436536,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        5437873,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5438002,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        5440383,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        5448610,
+        "\"Shortcuts\"",
+        "\"快捷键\""
+      ],
+      [
+        5451199,
+        "\"Open Keyboard Shortcuts\"",
+        "\"打开键盘快捷键\""
+      ],
+      [
+        5473922,
+        "\"Shortcuts\"",
+        "\"快捷键\""
+      ],
+      [
+        5487662,
+        "\"Rules\"",
+        "\"规则\""
+      ],
+      [
+        5488132,
+        "\"Customizations\"",
+        "\"自定义\""
+      ],
+      [
+        5500755,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        5501811,
+        "\"Global\"",
+        "\"全局\""
+      ],
+      [
+        5501863,
+        "\"Workspace\"",
+        "\"工作区\""
+      ],
+      [
+        5505114,
+        "\"Skills\"",
+        "\"技能\""
+      ],
+      [
+        5505318,
+        "\"Rules\"",
+        "\"规则\""
+      ],
+      [
+        5505520,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        5505812,
+        "\"Custom Agents\"",
+        "\"自定义智能体\""
+      ],
+      [
+        5507291,
+        "\"Configure workspace-specific permissions, resources, and customizations.\"",
+        "\"配置此工作区的权限、资源和自定义选项。\""
+      ],
+      [
+        5521909,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        5522381,
+        "Choose ",
+        "选择 "
+      ],
+      [
+        5522438,
+        "'s Voice",
+        " 的声音"
+      ],
+      [
+        5522957,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        5523641,
+        "\"Voices\"",
+        "\"声音\""
+      ],
+      [
+        5524948,
+        "\"System default\"",
+        "\"系统默认\""
+      ],
+      [
+        5525806,
+        "\"Voice\"",
+        "\"语音\""
+      ],
+      [
+        5525860,
+        "\"The voice used in Voice mode. Powered by Gemini Live.\"",
+        "\"语音模式使用的声音，由 Gemini Live 提供支持。\""
+      ],
+      [
+        5526087,
+        "\"Not set\"",
+        "\"未设置\""
+      ],
+      [
+        5526208,
+        "\"Change\"",
+        "\"更改\""
+      ],
+      [
+        5526724,
+        "\"Microphone\"",
+        "\"麦克风\""
+      ],
+      [
+        5526749,
+        "\"Input device for voice mode and dictation.\"",
+        "\"语音模式和语音输入使用的设备。\""
+      ],
+      [
+        5527510,
+        "\"Save audio recordings\"",
+        "\"保存录音\""
+      ],
+      [
+        5527546,
+        "\"Only stored on your machine.\"",
+        "\"仅保存在本机。\""
+      ],
+      [
+        5528505,
+        "Failed to delete recordings: ",
+        "删除录音失败："
+      ],
+      [
+        5528686,
+        "\"Recordings\"",
+        "\"录音\""
+      ],
+      [
+        5528872,
+        "\"Delete all\"",
+        "\"全部删除\""
+      ],
+      [
+        5528943,
+        "\"Delete all recordings?\"",
+        "\"删除所有录音？\""
+      ],
+      [
+        5529143,
+        "This deletes ",
+        "将从本机删除 "
+      ],
+      [
+        5529188,
+        " (",
+        "（"
+      ],
+      [
+        5529225,
+        ") from your machine. You can't undo this.",
+        "）。此操作无法撤销。"
+      ],
+      [
+        5529470,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5529599,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        5529890,
+        "\"Volume\"",
+        "\"音量\""
+      ],
+      [
+        5529943,
+        "\"How loud Antigravity's voice is.\"",
+        "\"设置 Antigravity 的语音音量。\""
+      ],
+      [
+        5530089,
+        "\"Voice volume\"",
+        "\"语音音量\""
+      ],
+      [
+        5531071,
+        "\"Voice\"",
+        "\"语音\""
+      ],
+      [
+        5531079,
+        "\"Voice mode\"",
+        "\"语音模式\""
+      ],
+      [
+        5532025,
+        "label:c.project4k.title,description:c.project4k.description",
+        "label:c.project4k.title===\"Knowledge Work\"?\"知识工作\":c.project4k.title,description:c.project4k.description===\"Simplified interface for research, writing, and everyday tasks.\"?\"适合研究、写作和日常任务的简洁界面。\":c.project4k.description"
+      ],
+      [
+        5532124,
+        "label:c.default.title,description:c.default.description",
+        "label:c.default.title===\"Software Engineering\"?\"软件工程\":c.default.title,description:c.default.description===\"Full interface for coding, developer tools, and managing agents.\"?\"提供编码、开发工具和智能体管理功能的完整界面。\":c.default.description"
+      ],
+      [
+        5532320,
+        "\"Interface Layout\"",
+        "\"界面布局\""
+      ],
+      [
+        5534967,
+        "\"Default\"",
+        "\"默认\""
+      ],
+      [
+        5535386,
+        "\"Full machine\"",
+        "\"整台计算机\""
+      ],
+      [
+        5535832,
+        "\"Turbo mode\"",
+        "\"极速模式\""
+      ],
+      [
+        5536225,
+        "\"Default\"",
+        "\"默认\""
+      ],
+      [
+        5536647,
+        "\"Full machine\"",
+        "\"整台计算机\""
+      ],
+      [
+        5537096,
+        "\"Turbo mode\"",
+        "\"极速模式\""
+      ],
+      [
+        5540261,
+        "Failed to save cloud permission settings: ",
+        "保存云端权限设置失败："
+      ],
+      [
+        5540732,
+        "Failed to save cloud permission settings: ",
+        "保存云端权限设置失败："
+      ],
+      [
+        5544207,
+        "\"Untitled project\"",
+        "\"未命名项目\""
+      ],
+      [
+        5544434,
+        "\"Controls the actions the agent can take.\"",
+        "\"控制智能体可以执行哪些操作。\""
+      ],
+      [
+        5544590,
+        "\"Controls the actions the agent can take.\"",
+        "\"控制智能体可以执行哪些操作。\""
+      ],
+      [
+        5548886,
+        "\"This Computer\"",
+        "\"本机\""
+      ],
+      [
+        5548921,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        5550768,
+        "\"Controls the actions the agent can take.\"",
+        "\"控制智能体可以执行哪些操作。\""
+      ],
+      [
+        5552656,
+        "\"Controls the actions the agent can take.\"",
+        "\"控制智能体可以执行哪些操作。\""
+      ],
+      [
+        5552787,
+        "\"Also includes\"",
+        "\"还包括\""
+      ],
+      [
+        5552908,
+        "\"Global Permissions\"",
+        "\"全局权限\""
+      ],
+      [
+        5553203,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5553545,
+        "\"File reads\"",
+        "\"读取文件\""
+      ],
+      [
+        5553570,
+        "\"Allow/deny agent read access to specific files or directories.\"",
+        "\"允许或禁止智能体读取指定文件或目录。\""
+      ],
+      [
+        5553860,
+        "\"File writes\"",
+        "\"写入文件\""
+      ],
+      [
+        5553886,
+        "\"Allow/deny agent write access to specific files or directories.\"",
+        "\"允许或禁止智能体写入指定文件或目录。\""
+      ],
+      [
+        5554163,
+        "\"Read URLs\"",
+        "\"读取网址\""
+      ],
+      [
+        5554187,
+        "\"Allow/deny agent read access to specific URLs or domains.\"",
+        "\"允许或禁止智能体读取指定网址或域名。\""
+      ],
+      [
+        5554464,
+        "\"Terminal commands\"",
+        "\"终端命令\""
+      ],
+      [
+        5554496,
+        "\"Allow/deny specific terminal commands.\"",
+        "\"允许或禁止执行指定的终端命令。\""
+      ],
+      [
+        5554765,
+        "\"Commands outside sandbox\"",
+        "\"沙盒外运行的命令\""
+      ],
+      [
+        5554805,
+        "\"Allow/deny agent command execution outside the sandbox.\"",
+        "\"允许或禁止智能体在沙盒外执行命令。\""
+      ],
+      [
+        5555063,
+        "\"MCP tools\"",
+        "\"MCP 工具\""
+      ],
+      [
+        5555087,
+        "\"External tools the agent can call via Model Context Protocol.\"",
+        "\"智能体可通过模型上下文协议（MCP）调用的外部工具。\""
+      ],
+      [
+        5555252,
+        "\"Enter tool name or server...\"",
+        "\"输入工具或服务器名称…\""
+      ],
+      [
+        5555329,
+        "\"File access rules\"",
+        "\"文件访问规则\""
+      ],
+      [
+        5555382,
+        "\"Configure allowed and denied paths for file reads and writes.\"",
+        "\"设置允许和禁止读写的文件路径。\""
+      ],
+      [
+        5555535,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5555574,
+        "\"Network access rules\"",
+        "\"网络访问规则\""
+      ],
+      [
+        5555630,
+        "\"Configure allowed and denied URLs for reading.\"",
+        "\"设置允许和禁止读取的网址。\""
+      ],
+      [
+        5555771,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5555851,
+        "\"Terminal commands\"",
+        "\"终端命令\""
+      ],
+      [
+        5555904,
+        "\"Configure allowed terminal commands.\"",
+        "\"设置允许执行的终端命令。\""
+      ],
+      [
+        5556035,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5556074,
+        "\"Commands outside sandbox\"",
+        "\"沙盒外运行的命令\""
+      ],
+      [
+        5556134,
+        "\"Configure allowed commands outside the sandbox.\"",
+        "\"设置允许在沙盒外执行的命令。\""
+      ],
+      [
+        5556280,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5556320,
+        "\"MCP tools\"",
+        "\"MCP 工具\""
+      ],
+      [
+        5556365,
+        "\"Configure external tools via Model Context Protocol.\"",
+        "\"通过模型上下文协议（MCP）配置外部工具。\""
+      ],
+      [
+        5556508,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5556568,
+        "\"Configure GitHub access policies.\"",
+        "\"配置 GitHub 访问策略。\""
+      ],
+      [
+        5556695,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5556741,
+        "\"Modify permissions for file, terminal, and MCP tools.\"",
+        "\"修改文件、终端和 MCP 工具的权限。\""
+      ],
+      [
+        5556797,
+        "\"Modify permissions for file and terminal tools.\"",
+        "\"修改文件和终端工具的权限。\""
+      ],
+      [
+        5557016,
+        "\"Tool permissions\"",
+        "\"工具权限\""
+      ],
+      [
+        5557161,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5557369,
+        "\"Tool Permissions\"",
+        "\"工具权限\""
+      ],
+      [
+        5557523,
+        "\"File Permissions\"",
+        "\"文件权限\""
+      ],
+      [
+        5557647,
+        "\"Network Permissions\"",
+        "\"网络权限\""
+      ],
+      [
+        5557778,
+        "\"Terminal Commands\"",
+        "\"终端命令\""
+      ],
+      [
+        5557908,
+        "\"Commands Outside Sandbox\"",
+        "\"沙盒外运行的命令\""
+      ],
+      [
+        5558040,
+        "\"MCP Tools\"",
+        "\"MCP 工具\""
+      ],
+      [
+        5558281,
+        "\"Outside of folders file access policy\"",
+        "\"工作文件夹外的文件访问策略\""
+      ],
+      [
+        5558333,
+        "\"Configures how the agent tries to access files outside of its working folders.\"",
+        "\"设置智能体如何访问工作文件夹以外的文件。\""
+      ],
+      [
+        5559270,
+        "\"Terminal command auto execution\"",
+        "\"自动执行终端命令\""
+      ],
+      [
+        5559316,
+        "\"Controls whether terminal commands require your approval before running.\"",
+        "\"设置终端命令在运行前是否需要你批准。\""
+      ],
+      [
+        5560742,
+        "\"Enable sandbox mode\"",
+        "\"启用沙盒模式\""
+      ],
+      [
+        5560776,
+        "\"Restricts agent tools to a secure, isolated local sandbox.\"",
+        "\"将智能体工具限制在安全、隔离的本地沙盒中。\""
+      ],
+      [
+        5560864,
+        "\"managed by your organization\"",
+        "\"由你的组织管理\""
+      ],
+      [
+        5560902,
+        "\"Terminal sandbox is not supported in this environment\"",
+        "\"当前环境不支持终端沙盒\""
+      ],
+      [
+        5561295,
+        "\"Enable sandbox mode\"",
+        "\"启用沙盒模式\""
+      ],
+      [
+        5561340,
+        "\"Restricts agent tools to a secure, isolated local sandbox.\"",
+        "\"将智能体工具限制在安全、隔离的本地沙盒中。\""
+      ],
+      [
+        5561486,
+        "\"managed by your organization\"",
+        "\"由你的组织管理\""
+      ],
+      [
+        5561525,
+        "\"Terminal sandbox is not supported in this environment\"",
+        "\"当前环境不支持终端沙盒\""
+      ],
+      [
+        5561744,
+        "\"Global Permissions\"",
+        "\"全局权限\""
+      ],
+      [
+        5561765,
+        "\"Agent Settings\"",
+        "\"智能体设置\""
+      ],
+      [
+        5561851,
+        "\"Security preset\"",
+        "\"安全预设\""
+      ],
+      [
+        5561905,
+        "\"managed by your organization\"",
+        "\"由你的组织管理\""
+      ],
+      [
+        5562618,
+        "\"Your agent\\u2019s ability to execute commands is also controlled by enterprise security policies.\"",
+        "\"智能体执行命令的权限还受企业安全策略约束。\""
+      ],
+      [
+        5562893,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5562949,
+        "\"Permissions\"",
+        "\"权限\""
+      ],
+      [
+        5562963,
+        "\"Global Permissions\"",
+        "\"全局权限\""
+      ],
+      [
+        5563024,
+        "\"Configure what the agent can do in local and remote conversations.\"",
+        "\"设置智能体在本地和远程会话中能执行哪些操作。\""
+      ],
+      [
+        5563094,
+        "\"Configure global allowed and denied resource permissions.\"",
+        "\"设置全局允许和拒绝访问的资源。\""
+      ],
+      [
+        5563401,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5563493,
+        "\"This computer\"",
+        "\"本机\""
+      ],
+      [
+        5563509,
+        "\"Permission preset\"",
+        "\"权限预设\""
+      ],
+      [
+        5563909,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        5563930,
+        "\"Controls permissions for remote conversations.\"",
+        "\"管理远程会话的权限。\""
+      ],
+      [
+        5564743,
+        "\"Advanced\"",
+        "\"高级\""
+      ],
+      [
+        5565114,
+        "\"Network Permissions\"",
+        "\"网络权限\""
+      ],
+      [
+        5565196,
+        "\"Terminal & Tooling Permissions\"",
+        "\"终端和工具权限\""
+      ],
+      [
+        5565423,
+        "\"Permission Settings\"",
+        "\"权限设置\""
+      ],
+      [
+        5565530,
+        "\"Permission preset\"",
+        "\"权限预设\""
+      ],
+      [
+        5566122,
+        "\"Local Permissions\"",
+        "\"本地权限\""
+      ],
+      [
+        5566283,
+        "\"Permission Details\"",
+        "\"权限详情\""
+      ],
+      [
+        5566363,
+        "\"Permission Details\"",
+        "\"权限详情\""
+      ],
+      [
+        5566519,
+        "\"Permissions\"",
+        "\"权限\""
+      ],
+      [
+        5566533,
+        "\"Global Permissions\"",
+        "\"全局权限\""
+      ],
+      [
+        5566597,
+        "\"Configure what the agent can do in local and remote conversations.\"",
+        "\"设置智能体在本地和远程会话中能执行哪些操作。\""
+      ],
+      [
+        5566666,
+        "\"Configure global allowed and denied resource permissions.\"",
+        "\"设置全局允许和拒绝访问的资源。\""
+      ],
+      [
+        5566974,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5567147,
+        "\"No Project\"",
+        "\"无项目\""
+      ],
+      [
+        5567187,
+        "\"Last Workspace\"",
+        "\"上次使用的工作区\""
+      ],
+      [
+        5569436,
+        "\"New conversation button\"",
+        "\"新建会话按钮\""
+      ],
+      [
+        5569474,
+        "\"Which workspace the New Conversation button and keyboard shortcut start you in.\"",
+        "\"选择通过“新建会话”按钮或快捷键开始会话时使用的工作区。\""
+      ],
+      [
+        5569824,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        5569948,
+        "\"Workspaces\"",
+        "\"工作区\""
+      ],
+      [
+        5570291,
+        "\"Labs\"",
+        "\"实验性功能\""
+      ],
+      [
+        5571459,
+        "\"General\"",
+        "\"常规\""
+      ],
+      [
+        5571481,
+        "\"Configure agent execution, queued message delivery, and permissions.\"",
+        "\"设置智能体的执行方式、排队消息的发送时机和权限。\""
+      ],
+      [
+        5571628,
+        "\"Interface Layout\"",
+        "\"界面布局\""
+      ],
+      [
+        5572685,
+        "\"Dismiss error\"",
+        "\"关闭错误提示\""
+      ],
+      [
+        5574304,
+        "\"Loading plugins...\"",
+        "\"正在加载插件…\""
+      ],
+      [
+        5574608,
+        "\"Refreshing...\"",
+        "\"正在刷新…\""
+      ],
+      [
+        5574624,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        5575019,
+        "\"Plugin Operation Error:\"",
+        "\"插件操作失败：\""
+      ],
+      [
+        5575599,
+        "\"No description available.\"",
+        "\"暂无描述。\""
+      ],
+      [
+        5575830,
+        "\"Deleting...\"",
+        "\"正在删除…\""
+      ],
+      [
+        5575844,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        5575934,
+        "\"Downloading...\"",
+        "\"正在下载…\""
+      ],
+      [
+        5575951,
+        "\"Download\"",
+        "\"下载\""
+      ],
+      [
+        5576105,
+        "\"No Plugins Available\"",
+        "\"暂无可用插件\""
+      ],
+      [
+        5577680,
+        "\"Paste auth code\"",
+        "\"粘贴授权码\""
+      ],
+      [
+        5577712,
+        "Auth code for ",
+        ""
+      ],
+      [
+        5577730,
+        "",
+        "的授权码"
+      ],
+      [
+        5578272,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        5578900,
+        "\"Error: \"",
+        "\"错误：\""
+      ],
+      [
+        5580252,
+        "\"Blocked by organization policy\"",
+        "\"组织策略已阻止此操作\""
+      ],
+      [
+        5581019,
+        "\"Authenticate\"",
+        "\"进行身份验证\""
+      ],
+      [
+        5581147,
+        "\"Sign out of this server?\"",
+        "\"退出此服务器的登录？\""
+      ],
+      [
+        5581334,
+        "\"Sign out\"",
+        "\"退出登录\""
+      ],
+      [
+        5589579,
+        "\"MCP Servers\"",
+        "\"MCP 服务器\""
+      ],
+      [
+        5592094,
+        "\" Organization MCP Allowlist (Read-Only)\"",
+        "\" 组织 MCP 允许列表（只读）\""
+      ],
+      [
+        5592203,
+        "\"These MCP allowlist rules are enforced by your organization's administrator.\"",
+        "\"这些 MCP 允许列表规则由你的组织管理员强制执行。\""
+      ],
+      [
+        5596134,
+        "\"Timeout:\"",
+        "\"超时时间：\""
+      ],
+      [
+        5596640,
+        "\"Command:\"",
+        "\"命令：\""
+      ],
+      [
+        5597276,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        5597367,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5597878,
+        "\"Timeout:\"",
+        "\"超时时间：\""
+      ],
+      [
+        5597970,
+        "\"Edit\"",
+        "\"编辑\""
+      ],
+      [
+        5598015,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        5601481,
+        "\"Add Handler\"",
+        "\"添加处理程序\""
+      ],
+      [
+        5602397,
+        "\"Command:\"",
+        "\"命令：\""
+      ],
+      [
+        5602835,
+        "\"Timeout:\"",
+        "\"超时时间：\""
+      ],
+      [
+        5603206,
+        "\"Add Handler\"",
+        "\"添加处理程序\""
+      ],
+      [
+        5603289,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5603397,
+        "\"Add Handler\"",
+        "\"添加处理程序\""
+      ],
+      [
+        5606854,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        5606934,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5607350,
+        "\"Saving...\"",
+        "\"正在保存…\""
+      ],
+      [
+        5609488,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5610200,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5610490,
+        "\"Saving...\"",
+        "\"正在保存…\""
+      ],
+      [
+        5611968,
+        "\"Installed\"",
+        "\"已安装\""
+      ],
+      [
+        5612496,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        5613647,
+        "\"Customizations\"",
+        "\"自定义\""
+      ],
+      [
+        5615680,
+        "\"Search MCP servers by name\"",
+        "\"按名称搜索 MCP 服务器\""
+      ],
+      [
+        5616112,
+        "\"Clear search\"",
+        "\"清空搜索\""
+      ],
+      [
+        5617342,
+        "\"Customizations\"",
+        "\"自定义\""
+      ],
+      [
+        5617643,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5617830,
+        "\"Default Customizations\"",
+        "\"默认自定义项\""
+      ],
+      [
+        5618408,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        5618716,
+        "\"Hooks\"",
+        "\"钩子\""
+      ],
+      [
+        5621988,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5622056,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5622785,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        5622950,
+        "\"Workspaces\"",
+        "\"工作区\""
+      ],
+      [
+        5624739,
+        "\"CitC workspace type\"",
+        "\"CitC 工作区类型\""
+      ],
+      [
+        5624773,
+        "\"Select the workspace type that will be used for new conversations started with the New Workspace option.\"",
+        "\"选择通过“新建工作区”创建会话时使用的工作区类型。\""
+      ],
+      [
+        5637851,
+        "\"Connected\"",
+        "\"已连接\""
+      ],
+      [
+        5638528,
+        "\"Waiting for you to finish signing in\\u2026\"",
+        "\"正在等待你完成登录…\""
+      ],
+      [
+        5638758,
+        "\"Sign-in failed: \"",
+        "\"登录失败：\""
+      ],
+      [
+        5639179,
+        "\"Sign in\"",
+        "\"登录\""
+      ],
+      [
+        5640118,
+        "\"Default\"",
+        "\"默认\""
+      ],
+      [
+        5640414,
+        "\"Reconnect\"",
+        "\"重新连接\""
+      ],
+      [
+        5641617,
+        "\"Rename\"",
+        "\"重命名\""
+      ],
+      [
+        5641881,
+        "\"Signing out\\u2026\"",
+        "\"正在退出登录…\""
+      ],
+      [
+        5641901,
+        "\"Sign out\"",
+        "\"退出登录\""
+      ],
+      [
+        5642031,
+        "\"Add account\"",
+        "\"添加账号\""
+      ],
+      [
+        5642432,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5642552,
+        "\"Add account\"",
+        "\"添加账号\""
+      ],
+      [
+        5643475,
+        "\"Connected\"",
+        "\"已连接\""
+      ],
+      [
+        5643619,
+        "\"No sign-in needed\"",
+        "\"无需登录\""
+      ],
+      [
+        5644015,
+        "\"Enable the plugin to sign in.\"",
+        "\"启用此插件后即可登录。\""
+      ],
+      [
+        5644270,
+        "\"Finish signing in in your browser.\"",
+        "\"请在浏览器中完成登录。\""
+      ],
+      [
+        5644437,
+        "\"Paste a code instead\"",
+        "\"改用验证码\""
+      ],
+      [
+        5644910,
+        "\"Restart sign-in\"",
+        "\"重新开始登录\""
+      ],
+      [
+        5644928,
+        "\"Sign in\"",
+        "\"登录\""
+      ],
+      [
+        5645122,
+        "\"Signing out\\u2026\"",
+        "\"正在退出登录…\""
+      ],
+      [
+        5645142,
+        "\"Sign out\"",
+        "\"退出登录\""
+      ],
+      [
+        5647275,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        5647353,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5647479,
+        "\"Paste the code shown after you sign in.\"",
+        "\"粘贴登录后显示的授权码。\""
+      ],
+      [
+        5647710,
+        "\"Restart sign-in\"",
+        "\"重新开始登录\""
+      ],
+      [
+        5648407,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        5650869,
+        "\"Connections\"",
+        "\"连接\""
+      ],
+      [
+        5650977,
+        "\"Connections\"",
+        "\"连接\""
+      ],
+      [
+        5651786,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        5652072,
+        "Sign in to ",
+        "远程登录 "
+      ],
+      [
+        5652087,
+        " remotely",
+        ""
+      ],
+      [
+        5652109,
+        "\"Sign in\"",
+        "\"登录\""
+      ],
+      [
+        5652596,
+        "\"Disconnect\"",
+        "\"断开连接\""
+      ],
+      [
+        5688659,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5688679,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        5688946,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        5688969,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        5689617,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        5689750,
+        "\"Retry\"",
+        "\"重试\""
+      ],
+      [
+        5694919,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        5701022,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        5701810,
+        "\"No project selected\"",
+        "\"未选择项目\""
+      ],
+      [
+        5706489,
+        "\"Got it\"",
+        "\"知道了\""
+      ],
+      [
+        5707059,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        5715655,
+        "Failed to save project: ",
+        "保存项目失败："
+      ],
+      [
+        5717627,
+        "Delete ",
+        "删除 "
+      ],
+      [
+        5718176,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        5718274,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        5719652,
+        "Failed to save project: ",
+        "保存项目失败："
+      ],
+      [
+        5723540,
+        "Failed to save project permissions: ",
+        "保存项目权限失败："
+      ],
+      [
+        5724892,
+        "\"No project selected or project management not available.\"",
+        "\"未选择项目，或项目管理不可用。\""
+      ],
+      [
+        5726434,
+        "\"Customizations\"",
+        "\"自定义\""
+      ],
+      [
+        5726959,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        5726973,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        5727060,
+        "\"Command setup script\"",
+        "\"命令初始化脚本\""
+      ],
+      [
+        5728775,
+        "Delete ",
+        "删除 "
+      ],
+      [
+        5730158,
+        "Version ",
+        "版本 "
+      ],
+      [
+        5733533,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        5733878,
+        "\"Workspaces\"",
+        "\"工作区\""
+      ],
+      [
+        5734257,
+        "\"Projects\"",
+        "\"项目\""
+      ],
+      [
+        5734651,
+        "\"Show Less\"",
+        "\"收起\""
+      ],
+      [
+        5734852,
+        "\"Not in Project\"",
+        "\"未关联项目\""
+      ],
+      [
+        5734954,
+        "\"Conversations\"",
+        "\"会话\""
+      ],
+      [
+        5735134,
+        "\"Provide Feedback\"",
+        "\"提交反馈\""
+      ],
+      [
+        5736990,
+        "\"Project\"",
+        "\"项目\""
+      ],
+      [
+        5752415,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        5756163,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        5821841,
+        "\"More actions\"",
+        "\"更多操作\""
+      ],
+      [
+        5821867,
+        "\"More options\"",
+        "\"更多选项\""
+      ],
+      [
+        5821888,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        5835628,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        5854281,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        6325863,
+        "\"Connect to SSH Host\"",
+        "\"连接到 SSH 主机\""
+      ],
+      [
+        6330039,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        6335308,
+        "\"Connected\"",
+        "\"已连接\""
+      ],
+      [
+        6336735,
+        "You're signing in on ",
+        "你正在 "
+      ],
+      [
+        6336760,
+        ". Your sign-in stays on that machine.",
+        " 上登录。登录状态只保存在那台设备上。"
+      ],
+      [
+        6337129,
+        "Connected to ",
+        "已连接到 "
+      ],
+      [
+        6339641,
+        "Failed to save project: ",
+        "保存项目失败："
+      ],
+      [
+        6342291,
+        "Failed to save project: ",
+        "保存项目失败："
+      ],
+      [
+        6363870,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        6376243,
+        "\"More actions\"",
+        "\"更多操作\""
+      ],
+      [
+        6381768,
+        "\"Modified\"",
+        "\"已修改\""
+      ],
+      [
+        6382001,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        6382079,
+        "\"Modified\"",
+        "\"已修改\""
+      ],
+      [
+        6390869,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        6391018,
+        "\"Action required\"",
+        "\"需要处理\""
+      ],
+      [
+        6391763,
+        "\"You can prompt the model to try again or start a new conversation if the error persists.\"",
+        "\"你可以让模型重试。如果错误仍然存在，请新建会话。\""
+      ],
+      [
+        6395302,
+        "\"Upgrade\"",
+        "\"升级\""
+      ],
+      [
+        6397881,
+        "\"Select Model\"",
+        "\"选择模型\""
+      ],
+      [
+        6398228,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        6404956,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        6410492,
+        "\"System default app\"",
+        "\"系统默认应用\""
+      ],
+      [
+        6420774,
+        "\"Commands\"",
+        "\"命令\""
+      ],
+      [
+        6434604,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        6434613,
+        "\"Copy link\"",
+        "\"复制链接\""
+      ],
+      [
+        6434754,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        6434880,
+        "\"Open link\"",
+        "\"打开链接\""
+      ],
+      [
+        6438308,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        6438375,
+        "\"Download\"",
+        "\"下载\""
+      ],
+      [
+        6438512,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        6439084,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        6458209,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        6458316,
+        "\"Creating\\u2026\"",
+        "\"正在创建…\""
+      ],
+      [
+        6458333,
+        "\"OK\"",
+        "\"确定\""
+      ],
+      [
+        6458426,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        6459267,
+        "\"Developer: Reset Onboarding\"",
+        "\"开发者：重置初始设置\""
+      ],
+      [
+        6512624,
+        "\"No conversations yet\"",
+        "\"暂无会话\""
+      ],
+      [
+        6513072,
+        "\"Show Less\"",
+        "\"收起\""
+      ],
+      [
+        6514922,
+        "\"Conversations\"",
+        "\"会话\""
+      ],
+      [
+        6516240,
+        "\"Show Less\"",
+        "\"收起\""
+      ],
+      [
+        6516256,
+        "See all (",
+        "查看全部（"
+      ],
+      [
+        6516282,
+        ")",
+        "）"
+      ],
+      [
+        6516285,
+        "\"See less\"",
+        "\"收起\""
+      ],
+      [
+        6546623,
+        "\"Automations\"",
+        "\"自动化\""
+      ],
+      [
+        6546650,
+        "\"Automations\"",
+        "\"自动化\""
+      ],
+      [
+        6550080,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        6551175,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        6551469,
+        "\"Got it\"",
+        "\"知道了\""
+      ],
+      [
+        6551649,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        6551890,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        6593929,
+        "\"Preview\"",
+        "\"预览\""
+      ],
+      [
+        6594988,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        6594997,
+        "\"Copy code\"",
+        "\"复制代码\""
+      ],
+      [
+        6595198,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        6595207,
+        "\"Copy code\"",
+        "\"复制代码\""
+      ],
+      [
+        6601518,
+        "\"Previous\"",
+        "\"上一项\""
+      ],
+      [
+        6602522,
+        "\"Next\"",
+        "\"下一步\""
+      ],
+      [
+        6628244,
+        "\"Preview unavailable\"",
+        "\"无法预览\""
+      ],
+      [
+        6628757,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        6629677,
+        "\"Preview unavailable\"",
+        "\"无法预览\""
+      ],
+      [
+        6633208,
+        "\"Preview unavailable\"",
+        "\"无法预览\""
+      ],
+      [
+        7155432,
+        "\"Preview unavailable\"",
+        "\"无法预览\""
+      ],
+      [
+        7195099,
+        "\"macOS Permissions Ready\"",
+        "\"macOS 权限已就绪\""
+      ],
+      [
+        7195125,
+        "\"Enable macOS Permissions\"",
+        "\"授予 macOS 权限\""
+      ],
+      [
+        7196077,
+        "\"\\u2713 macOS permissions granted\"",
+        "\"✓ 已授予 macOS 权限\""
+      ],
+      [
+        7206529,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        7206538,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        7206854,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        7206863,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        7215391,
+        "\"Create\"",
+        "\"创建\""
+      ],
+      [
+        7215465,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        7215586,
+        "\"Modified\"",
+        "\"已修改\""
+      ],
+      [
+        7216500,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        7216631,
+        "\"Confirm\"",
+        "\"确认\""
+      ],
+      [
+        7241856,
+        "\"Comments\"",
+        "\"评论\""
+      ],
+      [
+        7241976,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        7248998,
+        "\"Pause\"",
+        "\"暂停\""
+      ],
+      [
+        7251765,
+        "Open ",
+        "打开 "
+      ],
+      [
+        7263737,
+        "\"Try Again\"",
+        "\"重试\""
+      ],
+      [
+        7264926,
+        "\"Deny\"",
+        "\"拒绝\""
+      ],
+      [
+        7265060,
+        "\"Confirm\"",
+        "\"确认\""
+      ],
+      [
+        7271565,
+        "\"Agent can scroll on browser pages to access more content.\"",
+        "\"智能体可以滚动浏览器页面以查看更多内容。\""
+      ],
+      [
+        7271979,
+        "\"Agent can scroll on browser pages to access more content.\"",
+        "\"智能体可以滚动浏览器页面以查看更多内容。\""
+      ],
+      [
+        7272389,
+        "\"Agent can scroll on browser pages to access more content.\"",
+        "\"智能体可以滚动浏览器页面以查看更多内容。\""
+      ],
+      [
+        7273270,
+        "\"View\"",
+        "\"查看\""
+      ],
+      [
+        7274098,
+        "\"Preview\"",
+        "\"预览\""
+      ],
+      [
+        7274692,
+        "\"Deny\"",
+        "\"拒绝\""
+      ],
+      [
+        7277686,
+        "\"Hide\"",
+        "\"隐藏\""
+      ],
+      [
+        7277693,
+        "\"Show\"",
+        "\"显示\""
+      ],
+      [
+        7278968,
+        "\"View\"",
+        "\"查看\""
+      ],
+      [
+        7280373,
+        "\"View\"",
+        "\"查看\""
+      ],
+      [
+        7290749,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        7318846,
+        "\"Enabled\"",
+        "\"已启用\""
+      ],
+      [
+        7324700,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        7325767,
+        "\"Open URL\"",
+        "\"打开网址\""
+      ],
+      [
+        7332922,
+        "\"Working directory: \"",
+        "\"工作目录：\""
+      ],
+      [
+        7424173,
+        "\"Undo\"",
+        "\"撤销\""
+      ],
+      [
+        7472320,
+        "\"Thinking\"",
+        "\"思考中\""
+      ],
+      [
+        7477068,
+        "\"Show more\"",
+        "\"展开\""
+      ],
+      [
+        7479683,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        7490958,
+        "\"terminal\"",
+        "\"终端\""
+      ],
+      [
+        7491341,
+        "\"terminal\"",
+        "\"终端\""
+      ],
+      [
+        7517566,
+        "\"Preview\"",
+        "\"预览\""
+      ],
+      [
+        7518171,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        7518437,
+        "\"Expand\"",
+        "\"展开\""
+      ],
+      [
+        7526866,
+        "\"Hide\"",
+        "\"隐藏\""
+      ],
+      [
+        7526873,
+        "\"Show\"",
+        "\"显示\""
+      ],
+      [
+        7528108,
+        "\"New\"",
+        "\"新建\""
+      ],
+      [
+        7534005,
+        "\"Starting\"",
+        "\"正在启动\""
+      ],
+      [
+        7536064,
+        "\"Reject\"",
+        "\"拒绝\""
+      ],
+      [
+        7536143,
+        "\"Accept\"",
+        "\"接受\""
+      ],
+      [
+        7539775,
+        "\"Working\"",
+        "\"处理中\""
+      ],
+      [
+        7540988,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        7579841,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        7579850,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        7580129,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        7580138,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        7584449,
+        "\"Commands\"",
+        "\"命令\""
+      ],
+      [
+        7584673,
+        "\"Read URLs\"",
+        "\"读取网址\""
+      ],
+      [
+        7584819,
+        "\"MCP tools\"",
+        "\"MCP 工具\""
+      ],
+      [
+        7584906,
+        "\"Custom\"",
+        "\"自定义\""
+      ],
+      [
+        7589132,
+        "Review permissions for ",
+        "检查 "
+      ],
+      [
+        7589159,
+        "",
+        " 的权限"
+      ],
+      [
+        7589726,
+        "\"This extension has no declared permissions requiring user input.\"",
+        "\"此扩展无需用户确认任何已声明的权限。\""
+      ],
+      [
+        7590967,
+        "\"Change\"",
+        "\"更改\""
+      ],
+      [
+        7590976,
+        "\"Browse\"",
+        "\"浏览\""
+      ],
+      [
+        7591710,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        7591853,
+        "\"Next: Review Permissions\"",
+        "\"下一步：检查权限\""
+      ],
+      [
+        7592494,
+        "\"Resolving permissions...\"",
+        "\"正在检查权限…\""
+      ],
+      [
+        7592562,
+        "\"Workspaces\"",
+        "\"工作区\""
+      ],
+      [
+        7592938,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        7593091,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        7593218,
+        "\"Saving...\"",
+        "\"正在保存…\""
+      ],
+      [
+        7593818,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        7593954,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        7595267,
+        "\"Actions\"",
+        "\"操作\""
+      ],
+      [
+        7595518,
+        "\"Manage Permissions\"",
+        "\"管理权限\""
+      ],
+      [
+        7595682,
+        "\"Run Now\"",
+        "\"立即运行\""
+      ],
+      [
+        7595862,
+        "\"Restart\"",
+        "\"重启\""
+      ],
+      [
+        7596209,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        7596676,
+        "\"Open Settings\"",
+        "\"打开设置\""
+      ],
+      [
+        7602338,
+        "Restarted \"",
+        "已重启“"
+      ],
+      [
+        7602353,
+        "\".",
+        "”。"
+      ],
+      [
+        7602574,
+        "Failed to update \"",
+        "无法更新“"
+      ],
+      [
+        7602596,
+        "\"",
+        "”"
+      ],
+      [
+        7605214,
+        "\"Enable\"",
+        "\"启用\""
+      ],
+      [
+        7622388,
+        "\"Notifications\"",
+        "\"通知\""
+      ],
+      [
+        7629024,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        7629034,
+        "Copy ",
+        "复制 "
+      ],
+      [
+        7629066,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        7629076,
+        "Copy ",
+        "复制 "
+      ],
+      [
+        7636928,
+        "\"Dismiss notification\"",
+        "\"关闭通知\""
+      ],
+      [
+        7648895,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        7649089,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        7649885,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        7656797,
+        "\"Sort Conversations\"",
+        "\"会话排序\""
+      ],
+      [
+        7656988,
+        "\"Last Updated\"",
+        "\"上次更新\""
+      ],
+      [
+        7657122,
+        "\"Last Prompt\"",
+        "\"最后一条提示词\""
+      ],
+      [
+        7657214,
+        "\"Filter\"",
+        "\"筛选\""
+      ],
+      [
+        7657733,
+        "\"Only Automations\"",
+        "\"仅显示自动化\""
+      ],
+      [
+        7657914,
+        "\"See all\"",
+        "\"查看全部\""
+      ],
+      [
+        7668364,
+        "\"Conversations\"",
+        "\"会话\""
+      ],
+      [
+        7668464,
+        "\"Files\"",
+        "\"文件\""
+      ],
+      [
+        7668560,
+        "\"Code Search\"",
+        "\"代码搜索\""
+      ],
+      [
+        7668666,
+        "\"Projects\"",
+        "\"项目\""
+      ],
+      [
+        7668758,
+        "\"Commands\"",
+        "\"命令\""
+      ],
+      [
+        7671766,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        7671841,
+        "\"Cut\"",
+        "\"剪切\""
+      ],
+      [
+        7671916,
+        "\"Paste\"",
+        "\"粘贴\""
+      ],
+      [
+        7675346,
+        "\"Undo\"",
+        "\"撤销\""
+      ],
+      [
+        7677523,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        7677536,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        7679558,
+        "\"Terms of Service\"",
+        "\"服务条款\""
+      ],
+      [
+        7680055,
+        "\"One last thing before getting started\\u2026\"",
+        "\"开始之前还有最后一步…\""
+      ],
+      [
+        7685188,
+        "\"Continue\"",
+        "\"继续\""
+      ],
+      [
+        7686407,
+        "\"Getting started with Google Antigravity\"",
+        "\"开始使用 Google Antigravity\""
+      ],
+      [
+        7688001,
+        "\"Get started\"",
+        "\"开始使用\""
+      ],
+      [
+        7689544,
+        "\"Please sign in using the Antigravity sidebar panel to view this page.\"",
+        "\"请在 Antigravity 侧边栏中登录后查看此页面。\""
+      ],
+      [
+        7695064,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        7993497,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        7993829,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        7994115,
+        "\"Copy Image\"",
+        "\"复制图片\""
+      ],
+      [
+        7994128,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        7994186,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        7994445,
+        "\"Search\"",
+        "\"搜索\""
+      ],
+      [
+        7998006,
+        "Open ",
+        "打开 "
+      ],
+      [
+        8000722,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        8000907,
+        "\"Failed to load image\"",
+        "\"图片加载失败\""
+      ],
+      [
+        8029123,
+        "\"Drag to select a region to comment\"",
+        "\"拖动选择要评论的区域\""
+      ],
+      [
+        8031976,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        8036330,
+        "\"Comment\"",
+        "\"评论\""
+      ],
+      [
+        8036717,
+        "\"Add to Chat\"",
+        "\"添加到对话\""
+      ],
+      [
+        8071031,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        8071999,
+        "\"Proceed\"",
+        "\"继续\""
+      ],
+      [
+        8074064,
+        "\"Review\"",
+        "\"审查\""
+      ],
+      [
+        8088968,
+        "\"Agent Edits\"",
+        "\"智能体的修改\""
+      ],
+      [
+        8090314,
+        "\"Agent Edits\"",
+        "\"智能体的修改\""
+      ],
+      [
+        8090682,
+        "\"Changes\"",
+        "\"改动\""
+      ],
+      [
+        8090774,
+        "\"Changes\"",
+        "\"改动\""
+      ],
+      [
+        8091063,
+        "\"Agent Edits\"",
+        "\"智能体的修改\""
+      ],
+      [
+        8091194,
+        "\"Changes\"",
+        "\"改动\""
+      ],
+      [
+        8091591,
+        "\"Files Changed\"",
+        "\"已修改的文件\""
+      ],
+      [
+        8093696,
+        "\"Review\"",
+        "\"审查\""
+      ],
+      [
+        8094250,
+        "\"Clear filter\"",
+        "\"清除筛选\""
+      ],
+      [
+        8097657,
+        "\"Terminals\"",
+        "\"终端\""
+      ],
+      [
+        8098033,
+        "\"Project\"",
+        "\"项目\""
+      ],
+      [
+        8098043,
+        "\"Conversation\"",
+        "\"会话\""
+      ],
+      [
+        8098357,
+        "\"Conversation\"",
+        "\"会话\""
+      ],
+      [
+        8098410,
+        "\"Project\"",
+        "\"项目\""
+      ],
+      [
+        8108774,
+        "\"Error: \"",
+        "\"错误：\""
+      ],
+      [
+        8116496,
+        "\"Artifact\"",
+        "\"产物\""
+      ],
+      [
+        8116935,
+        "\"Background Task Output\"",
+        "\"后台任务输出\""
+      ],
+      [
+        8122449,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        8122458,
+        "\"Copy link\"",
+        "\"复制链接\""
+      ],
+      [
+        8122485,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        8122494,
+        "\"Copy link\"",
+        "\"复制链接\""
+      ],
+      [
+        8132889,
+        "\"See less\"",
+        "\"收起\""
+      ],
+      [
+        8132901,
+        "See all (",
+        "查看全部（"
+      ],
+      [
+        8132914,
+        ")",
+        "）"
+      ],
+      [
+        8139496,
+        "\"Artifacts\"",
+        "\"产物\""
+      ],
+      [
+        8140814,
+        "\"Background Tasks\"",
+        "\"后台任务\""
+      ],
+      [
+        8146321,
+        "\"Files Changed\"",
+        "\"已修改的文件\""
+      ],
+      [
+        8148747,
+        "\"Documents\"",
+        "\"文档\""
+      ],
+      [
+        8150479,
+        "\"Working...\"",
+        "\"正在处理…\""
+      ],
+      [
+        8154833,
+        "\"Approve\"",
+        "\"批准\""
+      ],
+      [
+        8155125,
+        "\"Deny\"",
+        "\"拒绝\""
+      ],
+      [
+        8155877,
+        "\"Show less\"",
+        "\"收起\""
+      ],
+      [
+        8156304,
+        "\"Subagents\"",
+        "\"子智能体\""
+      ],
+      [
+        8156472,
+        "\"No subagents\"",
+        "\"暂无子智能体\""
+      ],
+      [
+        8156725,
+        "\"Subagents\"",
+        "\"子智能体\""
+      ],
+      [
+        8156801,
+        "\"No subagents\"",
+        "\"暂无子智能体\""
+      ],
+      [
+        8157213,
+        "\"Terminals\"",
+        "\"终端\""
+      ],
+      [
+        8158269,
+        "\"Open Terminal\"",
+        "\"打开终端\""
+      ],
+      [
+        8158978,
+        "\"Uploads\"",
+        "\"上传内容\""
+      ],
+      [
+        8197727,
+        "\"Proceed\"",
+        "\"继续\""
+      ],
+      [
+        8198561,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        8201886,
+        "\"Proceed\"",
+        "\"继续\""
+      ],
+      [
+        8202205,
+        "Open ",
+        "打开 "
+      ],
+      [
+        8202243,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        8202965,
+        "\"Something went wrong.\"",
+        "\"出错了。\""
+      ],
+      [
+        8203327,
+        "\"Approve\"",
+        "\"批准\""
+      ],
+      [
+        8203386,
+        "\"Deny\"",
+        "\"拒绝\""
+      ],
+      [
+        8218584,
+        "\"In chat\"",
+        "\"在对话中\""
+      ],
+      [
+        8218818,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        8222933,
+        "\"Previous question\"",
+        "\"上一个问题\""
+      ],
+      [
+        8223255,
+        "\"Next question\"",
+        "\"下一个问题\""
+      ],
+      [
+        8226511,
+        "\"In chat\"",
+        "\"在对话中\""
+      ],
+      [
+        8226734,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        8226902,
+        "\"Next\"",
+        "\"下一步\""
+      ],
+      [
+        8227046,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        8241969,
+        "\"You said\"",
+        "\"你说\""
+      ],
+      [
+        8242325,
+        "Send all (",
+        "全部发送（"
+      ],
+      [
+        8242346,
+        ")",
+        "）"
+      ],
+      [
+        8244503,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        8245769,
+        "\"You said\"",
+        "\"你说\""
+      ],
+      [
+        8246153,
+        "\"Agent working\"",
+        "\"智能体正在处理\""
+      ],
+      [
+        8265115,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        8265263,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        8265272,
+        "\"Continue\"",
+        "\"继续\""
+      ],
+      [
+        8265630,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        8267163,
+        "\"Previous question\"",
+        "\"上一个问题\""
+      ],
+      [
+        8267473,
+        "\"Next question\"",
+        "\"下一个问题\""
+      ],
+      [
+        8273571,
+        "\"Review\"",
+        "\"审查\""
+      ],
+      [
+        8279606,
+        "\"You said\"",
+        "\"你说\""
+      ],
+      [
+        8279966,
+        "\"Agent working\"",
+        "\"智能体正在处理\""
+      ],
+      [
+        8292513,
+        "Open Subagent: ",
+        "打开子智能体："
+      ],
+      [
+        8298178,
+        "Open Subagent: ",
+        "打开子智能体："
+      ],
+      [
+        8298238,
+        "Open ",
+        "打开 "
+      ],
+      [
+        8298378,
+        "\"In chat\"",
+        "\"在对话中\""
+      ],
+      [
+        8298692,
+        "\"Deny\"",
+        "\"拒绝\""
+      ],
+      [
+        8309490,
+        "\"Adding...\"",
+        "\"正在添加…\""
+      ],
+      [
+        8309502,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        8310680,
+        "\"New\"",
+        "\"新建\""
+      ],
+      [
+        8314170,
+        "\"No description available.\"",
+        "\"暂无描述。\""
+      ],
+      [
+        8317303,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        8317468,
+        "\"Replace\"",
+        "\"替换\""
+      ],
+      [
+        8318512,
+        "\"Skill\"",
+        "\"技能\""
+      ],
+      [
+        8318956,
+        "\"Review contents\"",
+        "\"查看内容\""
+      ],
+      [
+        8319195,
+        "\"Review contents\"",
+        "\"查看内容\""
+      ],
+      [
+        8319321,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        8319947,
+        "Configure ",
+        "配置 "
+      ],
+      [
+        8335318,
+        "\"Skill\"",
+        "\"技能\""
+      ],
+      [
+        8335528,
+        "Sign in to ",
+        "登录 "
+      ],
+      [
+        8335546,
+        "\"Sign in\"",
+        "\"登录\""
+      ],
+      [
+        8335600,
+        "\"Sign in to finish setting up this plugin.\"",
+        "\"登录以完成此插件的设置。\""
+      ],
+      [
+        8335677,
+        "\"Sign in needed\"",
+        "\"需要登录\""
+      ],
+      [
+        8336540,
+        "\"Blocked\"",
+        "\"已阻止\""
+      ],
+      [
+        8336678,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        8342747,
+        "\"Sign-in required\"",
+        "\"需要登录\""
+      ],
+      [
+        8342908,
+        "\"Ready\"",
+        "\"就绪\""
+      ],
+      [
+        8343065,
+        "\"Pending\"",
+        "\"待处理\""
+      ],
+      [
+        8343206,
+        "\"Error\"",
+        "\"错误\""
+      ],
+      [
+        8343324,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        8345149,
+        "Configure ",
+        "配置 "
+      ],
+      [
+        8345455,
+        "\"Authenticate\"",
+        "\"进行身份验证\""
+      ],
+      [
+        8345598,
+        "\"Sign out\"",
+        "\"退出登录\""
+      ],
+      [
+        8346506,
+        "More actions for ",
+        ""
+      ],
+      [
+        8346527,
+        "",
+        "的更多操作"
+      ],
+      [
+        8346780,
+        "\"Restart\"",
+        "\"重启\""
+      ],
+      [
+        8346934,
+        "\"Disable\"",
+        "\"禁用\""
+      ],
+      [
+        8346944,
+        "\"Enable\"",
+        "\"启用\""
+      ],
+      [
+        8347122,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        8347504,
+        "\"Error: \"",
+        "\"错误：\""
+      ],
+      [
+        8347623,
+        "\"Error: \"",
+        "\"错误：\""
+      ],
+      [
+        8347921,
+        "\"Finish signing in to \"",
+        "\"完成登录：\""
+      ],
+      [
+        8348075,
+        "\"Paste a code instead\"",
+        "\"改用验证码\""
+      ],
+      [
+        8348212,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        8348466,
+        "Auth code for ",
+        ""
+      ],
+      [
+        8348484,
+        "",
+        "的授权码"
+      ],
+      [
+        8348804,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        8348927,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        8351533,
+        "\"Sign out of this server?\"",
+        "\"退出此服务器的登录？\""
+      ],
+      [
+        8352311,
+        "More actions for ",
+        ""
+      ],
+      [
+        8352332,
+        "",
+        "的更多操作"
+      ],
+      [
+        8353050,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        8354066,
+        "\"Enable\"",
+        "\"启用\""
+      ],
+      [
+        8354075,
+        "\"Disable\"",
+        "\"禁用\""
+      ],
+      [
+        8355766,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        8355797,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        8356135,
+        "\"Skill\"",
+        "\"技能\""
+      ],
+      [
+        8357045,
+        "\"Signed in as\"",
+        "\"当前登录账号\""
+      ],
+      [
+        8358292,
+        "\"Account\"",
+        "\"账号\""
+      ],
+      [
+        8358894,
+        "\"Default\"",
+        "\"默认\""
+      ],
+      [
+        8359163,
+        "\"Reconnect\"",
+        "\"重新连接\""
+      ],
+      [
+        8359261,
+        "\"Disconnect\"",
+        "\"断开连接\""
+      ],
+      [
+        8363919,
+        "\"Ready\"",
+        "\"就绪\""
+      ],
+      [
+        8364334,
+        "\"Error\"",
+        "\"错误\""
+      ],
+      [
+        8364433,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        8364515,
+        "\"Ready\"",
+        "\"就绪\""
+      ],
+      [
+        8364626,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        8364708,
+        "\"Ready\"",
+        "\"就绪\""
+      ],
+      [
+        8369302,
+        "\"Developer\"",
+        "\"开发者\""
+      ],
+      [
+        8369664,
+        "\"Version\"",
+        "\"版本\""
+      ],
+      [
+        8369950,
+        "\"Links\"",
+        "\"链接\""
+      ],
+      [
+        8370164,
+        "\"Repository\"",
+        "\"仓库\""
+      ],
+      [
+        8373322,
+        "\"Command:\"",
+        "\"命令：\""
+      ],
+      [
+        8373569,
+        "\"Timeout:\"",
+        "\"超时时间：\""
+      ],
+      [
+        8379029,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        8382190,
+        "\"Running\"",
+        "\"运行中\""
+      ],
+      [
+        8382332,
+        "\"Starting\"",
+        "\"正在启动\""
+      ],
+      [
+        8382470,
+        "\"Stopped\"",
+        "\"已停止\""
+      ],
+      [
+        8382597,
+        "\"Error\"",
+        "\"错误\""
+      ],
+      [
+        8382849,
+        "\"Unknown\"",
+        "\"未知\""
+      ],
+      [
+        8386280,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        8388567,
+        "\"Retry\"",
+        "\"重试\""
+      ],
+      [
+        8388848,
+        "\"Status\"",
+        "\"状态\""
+      ],
+      [
+        8389684,
+        "\"Copy command\"",
+        "\"复制命令\""
+      ],
+      [
+        8389821,
+        "\"Copy command\"",
+        "\"复制命令\""
+      ],
+      [
+        8392494,
+        "\"Start Automation\"",
+        "\"启动自动化\""
+      ],
+      [
+        8392954,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        8393194,
+        "\"Restart\"",
+        "\"重启\""
+      ],
+      [
+        8395918,
+        "\"Commands\"",
+        "\"命令\""
+      ],
+      [
+        8396047,
+        "\"Skills\"",
+        "\"技能\""
+      ],
+      [
+        8396181,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        8396467,
+        "\"Rules\"",
+        "\"规则\""
+      ],
+      [
+        8396597,
+        "\"Hooks\"",
+        "\"钩子\""
+      ],
+      [
+        8396850,
+        "\"Automations\"",
+        "\"自动化\""
+      ],
+      [
+        8397355,
+        "\"Pick one of these themes under Preset in Settings > Appearance.\"",
+        "\"在“设置 → 外观”的“预设”中选择一个主题。\""
+      ],
+      [
+        8397591,
+        "\"Open Appearance\"",
+        "\"打开外观设置\""
+      ],
+      [
+        8403357,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        8404376,
+        "\"Connected\"",
+        "\"已连接\""
+      ],
+      [
+        8404448,
+        "\"Ready\"",
+        "\"就绪\""
+      ],
+      [
+        8404484,
+        "\"No description available.\"",
+        "\"暂无描述。\""
+      ],
+      [
+        8404617,
+        "\"Connections\"",
+        "\"连接\""
+      ],
+      [
+        8404726,
+        "\"Connections\"",
+        "\"连接\""
+      ],
+      [
+        8405475,
+        "\"Disconnect\"",
+        "\"断开连接\""
+      ],
+      [
+        8405678,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        8406391,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        8406400,
+        "\"Copy link\"",
+        "\"复制链接\""
+      ],
+      [
+        8410297,
+        "\"Overview\"",
+        "\"概览\""
+      ],
+      [
+        8410361,
+        "\"Skills\"",
+        "\"技能\""
+      ],
+      [
+        8410413,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        8410441,
+        "\"Hooks\"",
+        "\"钩子\""
+      ],
+      [
+        8410468,
+        "\"Rules\"",
+        "\"规则\""
+      ],
+      [
+        8410537,
+        "\"Automations\"",
+        "\"自动化\""
+      ],
+      [
+        8417436,
+        "\"Setup required\"",
+        "\"需要设置\""
+      ],
+      [
+        8417606,
+        "\"This server needs you to sign in before the agent can use its tools.\"",
+        "\"请先登录此服务器，智能体才能使用其工具。\""
+      ],
+      [
+        8417678,
+        "\"These servers need you to sign in before the agent can use their tools.\"",
+        "\"请先登录这些服务器，智能体才能使用其工具。\""
+      ],
+      [
+        8421135,
+        "\"Disconnect\"",
+        "\"断开连接\""
+      ],
+      [
+        8421343,
+        "\"Authenticate\"",
+        "\"进行身份验证\""
+      ],
+      [
+        8422260,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        8422281,
+        "\"Enable\"",
+        "\"启用\""
+      ],
+      [
+        8422290,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        8422853,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        8422921,
+        "\"MCP error\"",
+        "\"MCP 错误\""
+      ],
+      [
+        8425781,
+        "\"Setup required\"",
+        "\"需要设置\""
+      ],
+      [
+        8426879,
+        "Configure ",
+        "配置 "
+      ],
+      [
+        8427081,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        8430112,
+        "\"Working Directory: \"",
+        "\"工作目录：\""
+      ],
+      [
+        8431274,
+        "\"Copied!\"",
+        "\"已复制！\""
+      ],
+      [
+        8443877,
+        "\"Conversation\"",
+        "\"会话\""
+      ],
+      [
+        8443964,
+        "\"Search conversations\"",
+        "\"搜索会话\""
+      ],
+      [
+        8447733,
+        "\"MCP Servers\"",
+        "\"MCP 服务器\""
+      ],
+      [
+        8448286,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        8449231,
+        "\"Rules\"",
+        "\"规则\""
+      ],
+      [
+        8450096,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        8453841,
+        "\"Ask a quick question without interrupting the main conversation.\"",
+        "\"快速提问，主会话会继续进行。\""
+      ],
+      [
+        8478336,
+        "\"Error: \"",
+        "\"错误：\""
+      ],
+      [
+        8483206,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        8512343,
+        "\"Add to Chat\"",
+        "\"添加到对话\""
+      ],
+      [
+        8518664,
+        "\"Clear filter\"",
+        "\"清除筛选\""
+      ],
+      [
+        8519383,
+        "\"Modified\"",
+        "\"已修改\""
+      ],
+      [
+        8521611,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        8533096,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        8533462,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        8533526,
+        "\"Download\"",
+        "\"下载\""
+      ],
+      [
+        8533730,
+        "\"Search\"",
+        "\"搜索\""
+      ],
+      [
+        8533996,
+        "\"Open in Code Search\"",
+        "\"在代码搜索中打开\""
+      ],
+      [
+        8535499,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        8535617,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        8535805,
+        "\"Open in Code Search\"",
+        "\"在代码搜索中打开\""
+      ],
+      [
+        8537339,
+        "\"Preview\"",
+        "\"预览\""
+      ],
+      [
+        8555912,
+        "\"Failed to load some diffs\"",
+        "\"部分差异加载失败\""
+      ],
+      [
+        8563989,
+        "\"Search\"",
+        "\"搜索\""
+      ],
+      [
+        8570988,
+        "\"Files Changed\"",
+        "\"已修改的文件\""
+      ],
+      [
+        8574224,
+        "\"Split Terminal\"",
+        "\"拆分终端\""
+      ],
+      [
+        8574573,
+        "\"Split Terminal\"",
+        "\"拆分终端\""
+      ],
+      [
+        8577223,
+        "\"Conversations\"",
+        "\"会话\""
+      ],
+      [
+        8577581,
+        "\"Terminals\"",
+        "\"终端\""
+      ],
+      [
+        8582993,
+        "\"Quote\"",
+        "\"引用\""
+      ],
+      [
+        8583480,
+        "\"Side Question\"",
+        "\"补充提问\""
+      ],
+      [
+        8609612,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        8618635,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        8618723,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        8618802,
+        "\"Side Panel\"",
+        "\"侧边面板\""
+      ],
+      [
+        8619045,
+        "\"Overview\"",
+        "\"概览\""
+      ],
+      [
+        8622941,
+        "\"Review\"",
+        "\"审查\""
+      ],
+      [
+        8624183,
+        "\"Background Task Output\"",
+        "\"后台任务输出\""
+      ],
+      [
+        8627854,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        8629557,
+        "\"Toggle Sidebar\"",
+        "\"显示或隐藏侧边栏\""
+      ],
+      [
+        8629661,
+        "\"Toggle Sidebar\"",
+        "\"显示或隐藏侧边栏\""
+      ],
+      [
+        8634722,
+        "\"Find\"",
+        "\"查找\""
+      ],
+      [
+        8634790,
+        "\"Find\"",
+        "\"查找\""
+      ],
+      [
+        8635645,
+        "\"Previous match\"",
+        "\"上一个匹配项\""
+      ],
+      [
+        8636160,
+        "\"Next match\"",
+        "\"下一个匹配项\""
+      ],
+      [
+        8636694,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        8642003,
+        "\"Side Panel\"",
+        "\"侧边面板\""
+      ],
+      [
+        8650222,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        8650416,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        8652231,
+        "\"Open File\"",
+        "\"打开文件\""
+      ],
+      [
+        8652530,
+        "\"New Terminal\"",
+        "\"新建终端\""
+      ],
+      [
+        8663275,
+        "Close ",
+        "关闭 "
+      ],
+      [
+        8669068,
+        "\"Something went wrong\"",
+        "\"出错了\""
+      ],
+      [
+        8680546,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        8680715,
+        "\"Rename\"",
+        "\"重命名\""
+      ],
+      [
+        8686242,
+        "\"New Group\"",
+        "\"新建分组\""
+      ],
+      [
+        8688843,
+        "\"New Group\"",
+        "\"新建分组\""
+      ],
+      [
+        8688951,
+        "\"Remove from Group\"",
+        "\"从分组中移除\""
+      ],
+      [
+        8695783,
+        "\"Restore\"",
+        "\"恢复\""
+      ],
+      [
+        8696013,
+        "\"Rename\"",
+        "\"重命名\""
+      ],
+      [
+        8696810,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        8696914,
+        "\"Fork\"",
+        "\"从此处分支\""
+      ],
+      [
+        8697148,
+        "\"Share\"",
+        "\"分享\""
+      ],
+      [
+        8697277,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        8697386,
+        "\"Archive\"",
+        "\"归档\""
+      ],
+      [
+        8697516,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        8699249,
+        "\"More options\"",
+        "\"更多选项\""
+      ],
+      [
+        8714149,
+        "\"Archive conversation\"",
+        "\"归档会话\""
+      ],
+      [
+        8714403,
+        "\"Pin conversation\"",
+        "\"置顶会话\""
+      ],
+      [
+        8729817,
+        "\"Starting\"",
+        "\"正在启动\""
+      ],
+      [
+        8729830,
+        "\"Online\"",
+        "\"在线\""
+      ],
+      [
+        8729839,
+        "\"Offline\"",
+        "\"离线\""
+      ],
+      [
+        8732157,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        8734457,
+        "\"New Project\"",
+        "\"新建项目\""
+      ],
+      [
+        8734483,
+        "\"Select a folder.\"",
+        "\"请选择文件夹。\""
+      ],
+      [
+        8735092,
+        "\"Create Project\"",
+        "\"创建项目\""
+      ],
+      [
+        8735817,
+        "\"New Workspace\"",
+        "\"新建工作区\""
+      ],
+      [
+        8736670,
+        "\"Recent\"",
+        "\"最近使用\""
+      ],
+      [
+        8739674,
+        "\"Connect GitHub\"",
+        "\"连接 GitHub\""
+      ],
+      [
+        8751201,
+        "\"No Project\"",
+        "\"无项目\""
+      ],
+      [
+        8751783,
+        "Select project, current: ",
+        "选择项目，当前为 "
+      ],
+      [
+        8753353,
+        "\"New Workspace\"",
+        "\"新建工作区\""
+      ],
+      [
+        8754119,
+        "\"Recent\"",
+        "\"最近使用\""
+      ],
+      [
+        8754392,
+        "\"This Computer\"",
+        "\"本机\""
+      ],
+      [
+        8755214,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        8756320,
+        "\"Connect to SSH Host\\u2026\"",
+        "\"连接到 SSH 主机…\""
+      ],
+      [
+        8756737,
+        "\"Create Project\"",
+        "\"创建项目\""
+      ],
+      [
+        8757026,
+        "\"Create Project\"",
+        "\"创建项目\""
+      ],
+      [
+        8757719,
+        "\"No Project\"",
+        "\"无项目\""
+      ],
+      [
+        8757838,
+        "\"Google3 projects are being deprecated. Select a CitC workspace instead.\"",
+        "\"Google3 项目即将停止支持，请选择 CitC 工作区。\""
+      ],
+      [
+        8758136,
+        "\"Select Project\"",
+        "\"选择项目\""
+      ],
+      [
+        8771357,
+        "\"Thinking...\"",
+        "\"正在思考…\""
+      ],
+      [
+        8772575,
+        "\"Thinking...\"",
+        "\"正在思考…\""
+      ],
+      [
+        8779966,
+        "\"Help\"",
+        "\"帮助\""
+      ],
+      [
+        8779992,
+        "\"Side Question\"",
+        "\"补充提问\""
+      ],
+      [
+        8780557,
+        "\"Previous question\"",
+        "\"上一个问题\""
+      ],
+      [
+        8780943,
+        "\"Next question\"",
+        "\"下一个问题\""
+      ],
+      [
+        8781262,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        8781271,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        8781288,
+        "\"Copied\"",
+        "\"已复制\""
+      ],
+      [
+        8781297,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        8781471,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        8781633,
+        "\"Minimize\"",
+        "\"最小化\""
+      ],
+      [
+        8781959,
+        "\"Thinking...\"",
+        "\"正在思考…\""
+      ],
+      [
+        8791221,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        8791851,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        8792063,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        8792216,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        8793016,
+        "\"(Optional) Tell us more or type your reason...\"",
+        "\"（选填）补充说明或填写原因…\""
+      ],
+      [
+        8801574,
+        "\"Connectors\"",
+        "\"连接器\""
+      ],
+      [
+        8801745,
+        "\"Connectors\"",
+        "\"连接器\""
+      ],
+      [
+        8802123,
+        "\"Connectors\"",
+        "\"连接器\""
+      ],
+      [
+        8804003,
+        "\"Sign In\"",
+        "\"登录\""
+      ],
+      [
+        8804164,
+        "\"Sign In\"",
+        "\"登录\""
+      ],
+      [
+        8804465,
+        "\"Finish signing in to \"",
+        "\"完成登录：\""
+      ],
+      [
+        8804631,
+        "Auth code for ",
+        ""
+      ],
+      [
+        8804655,
+        "",
+        "的授权码"
+      ],
+      [
+        8805176,
+        "\"Paste a code instead\"",
+        "\"改用验证码\""
+      ],
+      [
+        8805309,
+        "\"Submit\"",
+        "\"提交\""
+      ],
+      [
+        8805377,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        8806017,
+        "\"Manage\"",
+        "\"管理\""
+      ],
+      [
+        8819409,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        8819583,
+        "\"Copied!\"",
+        "\"已复制！\""
+      ],
+      [
+        8821953,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        8822994,
+        "\"Show less\"",
+        "\"收起\""
+      ],
+      [
+        8826591,
+        "\"More actions\"",
+        "\"更多操作\""
+      ],
+      [
+        8827705,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        8836912,
+        "Agent permissions preset: ",
+        "智能体权限预设："
+      ],
+      [
+        8836942,
+        ", ",
+        "，"
+      ],
+      [
+        8836951,
+        "Agent permissions preset selector, current: ",
+        "智能体权限预设选择器，当前为 "
+      ],
+      [
+        8839741,
+        "\"Use Global Settings\"",
+        "\"使用全局设置\""
+      ],
+      [
+        8843372,
+        "\"Open\"",
+        "\"打开\""
+      ],
+      [
+        8843674,
+        "\"Enable\"",
+        "\"启用\""
+      ],
+      [
+        8870830,
+        "\"Configure Branches\"",
+        "\"配置分支\""
+      ],
+      [
+        8871347,
+        "\"Done\"",
+        "\"完成\""
+      ],
+      [
+        8872967,
+        "\"Previous Worktrees\"",
+        "\"历史工作树\""
+      ],
+      [
+        8876373,
+        "\"Local\"",
+        "\"本地\""
+      ],
+      [
+        8876608,
+        "\"New Worktree\"",
+        "\"新建工作树\""
+      ],
+      [
+        8876675,
+        "\"Previous Worktrees\"",
+        "\"历史工作树\""
+      ],
+      [
+        8876934,
+        "\"Previous Worktrees\"",
+        "\"历史工作树\""
+      ],
+      [
+        8878970,
+        "\"New Worktree\"",
+        "\"新建工作树\""
+      ],
+      [
+        8879661,
+        "\"New Workspace\"",
+        "\"新建工作区\""
+      ],
+      [
+        8879677,
+        "\"New Worktree\"",
+        "\"新建工作树\""
+      ],
+      [
+        8883165,
+        "\"Select Environment\"",
+        "\"选择环境\""
+      ],
+      [
+        8884991,
+        "\"Workspaces\"",
+        "\"工作区\""
+      ],
+      [
+        8885004,
+        "\"Previous Worktrees\"",
+        "\"历史工作树\""
+      ],
+      [
+        8886123,
+        "\"Select Environment\"",
+        "\"选择环境\""
+      ],
+      [
+        8887928,
+        "\"Configure Branches\"",
+        "\"配置分支\""
+      ],
+      [
+        8888107,
+        "\"Configure Branches\"",
+        "\"配置分支\""
+      ],
+      [
+        8894888,
+        "\"Refreshing...\"",
+        "\"正在刷新…\""
+      ],
+      [
+        8895737,
+        "\"Refreshing...\"",
+        "\"正在刷新…\""
+      ],
+      [
+        8900313,
+        "Select model, current: ",
+        "选择模型，当前为 "
+      ],
+      [
+        8901927,
+        "\"Select Model\"",
+        "\"选择模型\""
+      ],
+      [
+        8903436,
+        "\"Custom\"",
+        "\"自定义\""
+      ],
+      [
+        8904866,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        8910022,
+        "\"Model\"",
+        "\"模型\""
+      ],
+      [
+        8932075,
+        "Open ",
+        "打开 "
+      ],
+      [
+        8932431,
+        "Remove ",
+        "移除 "
+      ],
+      [
+        8932983,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        8933447,
+        "\"Local\"",
+        "\"本地\""
+      ],
+      [
+        8935590,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        8936065,
+        "\"Select Environment\"",
+        "\"选择环境\""
+      ],
+      [
+        8936663,
+        "\"Add context\"",
+        "\"添加上下文\""
+      ],
+      [
+        8937115,
+        "\"Add Context\"",
+        "\"添加上下文\""
+      ],
+      [
+        8937572,
+        "\"Add Context\"",
+        "\"添加上下文\""
+      ],
+      [
+        8938090,
+        "\"System default\"",
+        "\"系统默认\""
+      ],
+      [
+        8938690,
+        "System default (",
+        "系统默认（"
+      ],
+      [
+        8938710,
+        ")",
+        "）"
+      ],
+      [
+        8944250,
+        "\"Reconnect\"",
+        "\"重新连接\""
+      ],
+      [
+        8945029,
+        "\"Microphone\"",
+        "\"麦克风\""
+      ],
+      [
+        8951844,
+        "\"Start Live Chat\"",
+        "\"开始实时对话\""
+      ],
+      [
+        8951862,
+        "\"Start Voice mode\"",
+        "\"启动语音模式\""
+      ],
+      [
+        8951885,
+        "\"End Live chat\"",
+        "\"结束实时对话\""
+      ],
+      [
+        8951901,
+        "\"End Voice mode\"",
+        "\"结束语音模式\""
+      ],
+      [
+        8955911,
+        "\"Reload\"",
+        "\"重新加载\""
+      ],
+      [
+        8956162,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        8958479,
+        "\"Voice speed\"",
+        "\"语速\""
+      ],
+      [
+        8958662,
+        "\"Voice speed\"",
+        "\"语速\""
+      ],
+      [
+        8959893,
+        "\"Voice speed\"",
+        "\"语速\""
+      ],
+      [
+        8963656,
+        "\"Voice mode\"",
+        "\"语音模式\""
+      ],
+      [
+        8966792,
+        "\"Voice mode\"",
+        "\"语音模式\""
+      ],
+      [
+        8967974,
+        "\"End Live chat\"",
+        "\"结束实时对话\""
+      ],
+      [
+        8967990,
+        "\"End Voice mode\"",
+        "\"结束语音模式\""
+      ],
+      [
+        8970447,
+        "\"Queue Message\"",
+        "\"将消息加入队列\""
+      ],
+      [
+        8970848,
+        "\"Queue Message\"",
+        "\"将消息加入队列\""
+      ],
+      [
+        8970965,
+        "\"Queue Message\"",
+        "\"将消息加入队列\""
+      ],
+      [
+        8970981,
+        "\"Send Immediately\"",
+        "\"立即发送\""
+      ],
+      [
+        8972262,
+        "\"Send message\"",
+        "\"发送消息\""
+      ],
+      [
+        8972636,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        8973195,
+        "\"Send message\"",
+        "\"发送消息\""
+      ],
+      [
+        8975516,
+        "\"Subagent\"",
+        "\"子智能体\""
+      ],
+      [
+        8978051,
+        "\"Files\"",
+        "\"文件\""
+      ],
+      [
+        8978474,
+        "\"Actions\"",
+        "\"操作\""
+      ],
+      [
+        8978547,
+        "\"Browser\"",
+        "\"浏览器\""
+      ],
+      [
+        8979417,
+        "\"Connectors\"",
+        "\"连接器\""
+      ],
+      [
+        8981929,
+        "View ",
+        "查看 "
+      ],
+      [
+        8982726,
+        "View ",
+        "查看 "
+      ],
+      [
+        8986395,
+        "\"Edit\"",
+        "\"编辑\""
+      ],
+      [
+        8986533,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        8986930,
+        "\"Queued messages\"",
+        "\"排队消息\""
+      ],
+      [
+        8987070,
+        "\"Queued Messages\"",
+        "\"排队消息\""
+      ],
+      [
+        8987345,
+        "\"Sends after agent finishes working\"",
+        "\"智能体完成当前任务后发送\""
+      ],
+      [
+        8987485,
+        "\"Collapse queued messages\"",
+        "\"收起排队消息\""
+      ],
+      [
+        8987512,
+        "\"Expand queued messages\"",
+        "\"展开排队消息\""
+      ],
+      [
+        9008635,
+        "\"Listening. Ask anything.\"",
+        "\"正在聆听，有什么想问的？\""
+      ],
+      [
+        9013547,
+        "\"Voice mode\"",
+        "\"语音模式\""
+      ],
+      [
+        9019506,
+        "\"Message subagent, @ to mention\"",
+        "\"给子智能体发消息，输入 @ 可提及\""
+      ],
+      [
+        9019542,
+        "\", / for actions\"",
+        "\"，输入 / 可选择操作\""
+      ],
+      [
+        9019585,
+        "\"Ask anything, @ to mention\"",
+        "\"有问题尽管问，输入 @ 可提及\""
+      ],
+      [
+        9019617,
+        "\", / for actions\"",
+        "\"，输入 / 可选择操作\""
+      ],
+      [
+        9059333,
+        "Version ",
+        "版本 "
+      ],
+      [
+        9059427,
+        "\"Check for Updates\"",
+        "\"检查更新\""
+      ],
+      [
+        9059528,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9059592,
+        "\"Create Project\"",
+        "\"创建项目\""
+      ],
+      [
+        9059873,
+        "\"Command Palette\"",
+        "\"命令面板\""
+      ],
+      [
+        9060039,
+        "\"Zoom In\"",
+        "\"放大\""
+      ],
+      [
+        9060080,
+        "\"Zoom Out\"",
+        "\"缩小\""
+      ],
+      [
+        9060123,
+        "\"Reset Zoom\"",
+        "\"重置缩放\""
+      ],
+      [
+        9060213,
+        "\"Minimize\"",
+        "\"最小化\""
+      ],
+      [
+        9060257,
+        "\"Maximize\"",
+        "\"最大化\""
+      ],
+      [
+        9060301,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        9060590,
+        "\"Workspace\"",
+        "\"工作区\""
+      ],
+      [
+        9060653,
+        "\"View\"",
+        "\"查看\""
+      ],
+      [
+        9060711,
+        "\"Window\"",
+        "\"窗口\""
+      ],
+      [
+        9072866,
+        "\"System\"",
+        "\"跟随系统\""
+      ],
+      [
+        9072924,
+        "\"Light\"",
+        "\"浅色\""
+      ],
+      [
+        9072980,
+        "\"Dark\"",
+        "\"深色\""
+      ],
+      [
+        9074127,
+        "\"Trouble signing in? Enter authorization code\"",
+        "\"无法登录？请输入授权码\""
+      ],
+      [
+        9075089,
+        "\"Sign in in your browser, then paste the authorization code shown on the callback page.\"",
+        "\"在浏览器中登录，然后粘贴回调页面上显示的授权码。\""
+      ],
+      [
+        9075349,
+        "\"Authorization code\"",
+        "\"授权码\""
+      ],
+      [
+        9075666,
+        "\"Paste authorization code\"",
+        "\"粘贴授权码\""
+      ],
+      [
+        9076502,
+        "\"Submit code\"",
+        "\"提交授权码\""
+      ],
+      [
+        9076952,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        9077502,
+        "\"Copied!\"",
+        "\"已复制！\""
+      ],
+      [
+        9077512,
+        "\"Copy sign-in link\"",
+        "\"复制登录链接\""
+      ],
+      [
+        9078625,
+        "\"Continue with Google\"",
+        "\"使用 Google 账号继续\""
+      ],
+      [
+        9078658,
+        "\"Continue with Google Cloud\"",
+        "\"通过 Google Cloud 继续\""
+      ],
+      [
+        9078687,
+        "\"Continue with SSO\"",
+        "\"使用单点登录继续\""
+      ],
+      [
+        9079655,
+        "\"Last Used\"",
+        "\"上次使用\""
+      ],
+      [
+        9080581,
+        "\"Other sign-in options\"",
+        "\"其他登录方式\""
+      ],
+      [
+        9081003,
+        "\"Use Business Account\"",
+        "\"使用企业账号\""
+      ],
+      [
+        9081190,
+        "\"Business Account Sign In\"",
+        "\"使用企业账号登录\""
+      ],
+      [
+        9081408,
+        "\"Continue with Google Cloud\"",
+        "\"通过 Google Cloud 继续\""
+      ],
+      [
+        9081658,
+        "\"Continue with Google Cloud\"",
+        "\"通过 Google Cloud 继续\""
+      ],
+      [
+        9082142,
+        "\"Use Advanced SSO Config\"",
+        "\"使用高级单点登录配置\""
+      ],
+      [
+        9082523,
+        "\"Use this if your admin gave you a WIF config. Paste it below to sign in.\"",
+        "\"如果管理员提供了 WIF 配置，请粘贴到下方以完成登录。\""
+      ],
+      [
+        9082759,
+        "\"Email\"",
+        "\"电子邮箱\""
+      ],
+      [
+        9083355,
+        "\"WIF Config\"",
+        "\"WIF 配置\""
+      ],
+      [
+        9083557,
+        "\"E.g. locations/global/workforcePools...\"",
+        "\"例如 locations/global/workforcePools...\""
+      ],
+      [
+        9084169,
+        "\"Sign In with SSO\"",
+        "\"使用单点登录\""
+      ],
+      [
+        9084373,
+        "\"Having trouble signing in?\"",
+        "\"无法登录？\""
+      ],
+      [
+        9096341,
+        "\"Continue with Google\"",
+        "\"使用 Google 账号继续\""
+      ],
+      [
+        9096620,
+        "\"Continue with Google\"",
+        "\"使用 Google 账号继续\""
+      ],
+      [
+        9096988,
+        "\"Use Google Cloud project instead\"",
+        "\"改用 Google Cloud 项目\""
+      ],
+      [
+        9097282,
+        "\"Having trouble signing in?\"",
+        "\"无法登录？\""
+      ],
+      [
+        9097636,
+        "Welcome to ",
+        "欢迎使用 "
+      ],
+      [
+        9097651,
+        "!",
+        "！"
+      ],
+      [
+        9098555,
+        "\"There was an unexpected issue setting up your account.\"",
+        "\"设置账号时遇到意外问题。\""
+      ],
+      [
+        9098678,
+        "\"We apologize for the inconvenience. Please try again later.\"",
+        "\"给你带来不便，敬请谅解。请稍后重试。\""
+      ],
+      [
+        9098822,
+        "\"Continue with different account\"",
+        "\"使用其他账号继续\""
+      ],
+      [
+        9098989,
+        "\"Having trouble signing in?\"",
+        "\"无法登录？\""
+      ],
+      [
+        9099354,
+        "\"Please verify your account, then sign in again to continue. Learn more by visiting our\"",
+        "\"请验证账号后重新登录。详情请参阅\""
+      ],
+      [
+        9099609,
+        "\"FAQ\"",
+        "\"常见问题\""
+      ],
+      [
+        9100455,
+        "\"Having trouble signing in?\"",
+        "\"无法登录？\""
+      ],
+      [
+        9100851,
+        "\"Sorry, this account is ineligible to use \"",
+        "\"抱歉，此账号暂不符合使用条件：\""
+      ],
+      [
+        9100998,
+        "\"Learn more by visiting our\"",
+        "\"详情请参阅\""
+      ],
+      [
+        9101193,
+        "\"FAQ\"",
+        "\"常见问题\""
+      ],
+      [
+        9101283,
+        "\"Continue with different account\"",
+        "\"使用其他账号继续\""
+      ],
+      [
+        9101460,
+        "\"Having trouble signing in?\"",
+        "\"无法登录？\""
+      ],
+      [
+        9101883,
+        "\"Enter Google Cloud Project Details\"",
+        "\"输入 Google Cloud 项目信息\""
+      ],
+      [
+        9102101,
+        "\"Google Cloud Project ID\"",
+        "\"Google Cloud 项目 ID\""
+      ],
+      [
+        9102332,
+        "\"This Google Cloud project is not supported. Input a different project, or sign in with another account.\"",
+        "\"当前 Google Cloud 项目暂不受支持。请输入其他项目，或换一个账号登录。\""
+      ],
+      [
+        9102646,
+        "\"Learn more\"",
+        "\"了解详情\""
+      ],
+      [
+        9102793,
+        "\"Sign in with a different account\"",
+        "\"使用其他账号登录\""
+      ],
+      [
+        9106857,
+        "\"Loading plugins...\"",
+        "\"正在加载插件…\""
+      ],
+      [
+        9106928,
+        "\"Error: \"",
+        "\"错误：\""
+      ],
+      [
+        9108853,
+        "\"Hand off a feature and come back to working code.\"",
+        "\"把功能开发交给智能体，稍后回来查看可运行的代码。\""
+      ],
+      [
+        9120728,
+        "\"Not configured\"",
+        "\"未配置\""
+      ],
+      [
+        9125546,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        9138863,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        9139202,
+        "\"Enable\"",
+        "\"启用\""
+      ],
+      [
+        9139684,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        9139712,
+        "\"Adding...\"",
+        "\"正在添加…\""
+      ],
+      [
+        9139832,
+        "\"No description available.\"",
+        "\"暂无描述。\""
+      ],
+      [
+        9141395,
+        "\"Skill\"",
+        "\"技能\""
+      ],
+      [
+        9141471,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        9144163,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        9144312,
+        "\"No description available.\"",
+        "\"暂无描述。\""
+      ],
+      [
+        9145188,
+        "\"plugin\"",
+        "\"插件\""
+      ],
+      [
+        9145976,
+        "\"Adding...\"",
+        "\"正在添加…\""
+      ],
+      [
+        9147604,
+        "\"Review contents\"",
+        "\"查看内容\""
+      ],
+      [
+        9147731,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9147950,
+        "\"Bundles\"",
+        "\"资源包\""
+      ],
+      [
+        9149025,
+        "\"Bundles\"",
+        "\"资源包\""
+      ],
+      [
+        9150274,
+        "\"Bundles\"",
+        "\"资源包\""
+      ],
+      [
+        9153542,
+        "More actions for ",
+        ""
+      ],
+      [
+        9153563,
+        "",
+        "的更多操作"
+      ],
+      [
+        9153689,
+        "\"Disconnect\"",
+        "\"断开连接\""
+      ],
+      [
+        9154733,
+        "\"Create\"",
+        "\"创建\""
+      ],
+      [
+        9154762,
+        "\"Global\"",
+        "\"全局\""
+      ],
+      [
+        9155116,
+        "\"Workspace\"",
+        "\"工作区\""
+      ],
+      [
+        9157549,
+        "Failed to update \"",
+        "无法更新“"
+      ],
+      [
+        9157583,
+        "\"",
+        "”"
+      ],
+      [
+        9157772,
+        "Deleted \"",
+        "已删除“"
+      ],
+      [
+        9157797,
+        "\".",
+        "”。"
+      ],
+      [
+        9157908,
+        "Failed to delete \"",
+        "无法删除“"
+      ],
+      [
+        9157942,
+        "\"",
+        "”"
+      ],
+      [
+        9159600,
+        "Run ",
+        "立即运行 "
+      ],
+      [
+        9159620,
+        " now",
+        ""
+      ],
+      [
+        9159800,
+        "Delete ",
+        "删除 "
+      ],
+      [
+        9162100,
+        "\"Add MCP Server\"",
+        "\"添加 MCP 服务器\""
+      ],
+      [
+        9162443,
+        "\"Search MCP servers by name\"",
+        "\"按名称搜索 MCP 服务器\""
+      ],
+      [
+        9162485,
+        "\"Search MCP servers by name\"",
+        "\"按名称搜索 MCP 服务器\""
+      ],
+      [
+        9162945,
+        "\"Clear search\"",
+        "\"清空搜索\""
+      ],
+      [
+        9164597,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9164754,
+        "\"Deleting...\"",
+        "\"正在删除…\""
+      ],
+      [
+        9164768,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        9166703,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9166850,
+        "\"Deleting...\"",
+        "\"正在删除…\""
+      ],
+      [
+        9166864,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        9167754,
+        "\"See less\"",
+        "\"收起\""
+      ],
+      [
+        9168034,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        9168125,
+        "\"See less\"",
+        "\"收起\""
+      ],
+      [
+        9168498,
+        "More actions for ",
+        ""
+      ],
+      [
+        9168519,
+        "",
+        "的更多操作"
+      ],
+      [
+        9168685,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        9168866,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        9170702,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        9173441,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        9176435,
+        "\"Copy Path\"",
+        "\"复制路径\""
+      ],
+      [
+        9178567,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        9179175,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        9179759,
+        "\"Custom Agents\"",
+        "\"自定义智能体\""
+      ],
+      [
+        9180086,
+        "\"MCP Servers\"",
+        "\"MCP 服务器\""
+      ],
+      [
+        9180390,
+        "\"Add MCP Server\"",
+        "\"添加 MCP 服务器\""
+      ],
+      [
+        9180421,
+        "\"Add MCP Server\"",
+        "\"添加 MCP 服务器\""
+      ],
+      [
+        9181087,
+        "\"Automations\"",
+        "\"自动化\""
+      ],
+      [
+        9190260,
+        "\"Blocked\"",
+        "\"已阻止\""
+      ],
+      [
+        9190320,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        9190518,
+        "\"Setup required\"",
+        "\"需要设置\""
+      ],
+      [
+        9190725,
+        "\"Sign in required\"",
+        "\"需要登录\""
+      ],
+      [
+        9190806,
+        "\"MCP error\"",
+        "\"MCP 错误\""
+      ],
+      [
+        9193264,
+        "\"Bundles\"",
+        "\"资源包\""
+      ],
+      [
+        9193477,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9194174,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        9195736,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        9198561,
+        "\"Installed\"",
+        "\"已安装\""
+      ],
+      [
+        9199040,
+        "Add ",
+        "添加 "
+      ],
+      [
+        9199053,
+        "\"Adding...\"",
+        "\"正在添加…\""
+      ],
+      [
+        9199065,
+        "\"Add\"",
+        "\"添加\""
+      ],
+      [
+        9202705,
+        "\"Blocked\"",
+        "\"已阻止\""
+      ],
+      [
+        9202889,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        9205032,
+        "\"No description available.\"",
+        "\"暂无描述。\""
+      ],
+      [
+        9210039,
+        "\"More Plugins\"",
+        "\"更多插件\""
+      ],
+      [
+        9212602,
+        "\"Skill\"",
+        "\"技能\""
+      ],
+      [
+        9212705,
+        "\"Blocked\"",
+        "\"已阻止\""
+      ],
+      [
+        9212767,
+        "\"Disabled\"",
+        "\"已禁用\""
+      ],
+      [
+        9212843,
+        "\"MCP error\"",
+        "\"MCP 错误\""
+      ],
+      [
+        9215175,
+        "\"Dismiss error\"",
+        "\"关闭错误提示\""
+      ],
+      [
+        9215878,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        9217268,
+        "\"More Plugins\"",
+        "\"更多插件\""
+      ],
+      [
+        9217449,
+        "\"More Plugins\"",
+        "\"更多插件\""
+      ],
+      [
+        9217718,
+        "\"See more results\"",
+        "\"查看更多结果\""
+      ],
+      [
+        9217951,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9218126,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9218537,
+        "\"Skills\"",
+        "\"技能\""
+      ],
+      [
+        9218711,
+        "\"Skills\"",
+        "\"技能\""
+      ],
+      [
+        9218989,
+        "\"See more results\"",
+        "\"查看更多结果\""
+      ],
+      [
+        9219139,
+        "\"See more results\"",
+        "\"查看更多结果\""
+      ],
+      [
+        9219514,
+        "\"Try again\"",
+        "\"重试\""
+      ],
+      [
+        9223470,
+        "\"Clear search\"",
+        "\"清空搜索\""
+      ],
+      [
+        9223882,
+        "\"Installed\"",
+        "\"已安装\""
+      ],
+      [
+        9226154,
+        "\"Connected\"",
+        "\"已连接\""
+      ],
+      [
+        9226708,
+        "\"Connected\"",
+        "\"已连接\""
+      ],
+      [
+        9226780,
+        "\"Ready\"",
+        "\"就绪\""
+      ],
+      [
+        9227589,
+        "\"Sign in to an app once and your agent can use it on any device. Open an app to see the account it uses or to disconnect it.\"",
+        "\"应用只需登录一次，智能体即可在任意设备上使用它。打开应用可查看当前账号或断开连接。\""
+      ],
+      [
+        9229727,
+        "\"Customizations\"",
+        "\"自定义\""
+      ],
+      [
+        9230757,
+        "\"Failed to load shared conversation\"",
+        "\"无法加载共享会话\""
+      ],
+      [
+        9233746,
+        "\"Toggle Sidebar\"",
+        "\"显示或隐藏侧边栏\""
+      ],
+      [
+        9233838,
+        "\"Toggle Sidebar\"",
+        "\"显示或隐藏侧边栏\""
+      ],
+      [
+        9234187,
+        "\"Go Back\"",
+        "\"后退\""
+      ],
+      [
+        9234342,
+        "\"Go Back\"",
+        "\"后退\""
+      ],
+      [
+        9234511,
+        "\"Go Forward\"",
+        "\"前进\""
+      ],
+      [
+        9234669,
+        "\"Go Forward\"",
+        "\"前进\""
+      ],
+      [
+        9238368,
+        "Opens the New Conversation screen for this ",
+        "打开此 "
+      ],
+      [
+        9238426,
+        "",
+        " 的新建会话页面"
+      ],
+      [
+        9240660,
+        "\"Search Conversations\"",
+        "\"搜索会话\""
+      ],
+      [
+        9240791,
+        "\"Search Conversations\"",
+        "\"搜索会话\""
+      ],
+      [
+        9248507,
+        "\"See less\"",
+        "\"收起\""
+      ],
+      [
+        9248518,
+        "\"See all\"",
+        "\"查看全部\""
+      ],
+      [
+        9251179,
+        "\"See less\"",
+        "\"收起\""
+      ],
+      [
+        9251190,
+        "\"See all\"",
+        "\"查看全部\""
+      ],
+      [
+        9251234,
+        "\"Subagents\"",
+        "\"子智能体\""
+      ],
+      [
+        9251355,
+        "\"Background Tasks\"",
+        "\"后台任务\""
+      ],
+      [
+        9251460,
+        "\"Documents\"",
+        "\"文档\""
+      ],
+      [
+        9251513,
+        "\"Artifacts\"",
+        "\"产物\""
+      ],
+      [
+        9251562,
+        "\"Links\"",
+        "\"链接\""
+      ],
+      [
+        9251671,
+        "\"Uploads\"",
+        "\"上传内容\""
+      ],
+      [
+        9265884,
+        "\"Delete Side Question\"",
+        "\"删除补充提问\""
+      ],
+      [
+        9266290,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9266428,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        9268607,
+        "\"Delete Side Question\"",
+        "\"删除补充提问\""
+      ],
+      [
+        9275890,
+        "\"Approve\"",
+        "\"批准\""
+      ],
+      [
+        9276185,
+        "\"Deny\"",
+        "\"拒绝\""
+      ],
+      [
+        9277537,
+        "\"Show less\"",
+        "\"收起\""
+      ],
+      [
+        9278454,
+        "\"No subagents\"",
+        "\"暂无子智能体\""
+      ],
+      [
+        9279164,
+        "\"Show less\"",
+        "\"收起\""
+      ],
+      [
+        9281074,
+        "\"Subagents\"",
+        "\"子智能体\""
+      ],
+      [
+        9281584,
+        "\"Background Tasks\"",
+        "\"后台任务\""
+      ],
+      [
+        9282079,
+        "\"Documents\"",
+        "\"文档\""
+      ],
+      [
+        9282306,
+        "\"Artifacts\"",
+        "\"产物\""
+      ],
+      [
+        9282526,
+        "\"Links\"",
+        "\"链接\""
+      ],
+      [
+        9282986,
+        "\"Uploads\"",
+        "\"上传内容\""
+      ],
+      [
+        9285266,
+        "\"Customize Sections\"",
+        "\"自定义分区\""
+      ],
+      [
+        9285671,
+        "\"Customize Sections\"",
+        "\"自定义分区\""
+      ],
+      [
+        9285809,
+        "\"Customize Sections\"",
+        "\"自定义分区\""
+      ],
+      [
+        9289128,
+        "\"Overview\"",
+        "\"概览\""
+      ],
+      [
+        9289639,
+        "\"Review\"",
+        "\"审查\""
+      ],
+      [
+        9289783,
+        "\"Files\"",
+        "\"文件\""
+      ],
+      [
+        9289940,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        9290140,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9291747,
+        "\"Toggle Overview Panel\"",
+        "\"显示或隐藏概览面板\""
+      ],
+      [
+        9291828,
+        "\"Toggle Overview Panel\"",
+        "\"显示或隐藏概览面板\""
+      ],
+      [
+        9295536,
+        "\"Updating\\u2026\"",
+        "\"正在更新…\""
+      ],
+      [
+        9297608,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9297685,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9298112,
+        "\"Update Available\"",
+        "\"有可用更新\""
+      ],
+      [
+        9299584,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9299704,
+        "\"Update\"",
+        "\"更新\""
+      ],
+      [
+        9301851,
+        "\"Updating\\u2026\"",
+        "\"正在更新…\""
+      ],
+      [
+        9301868,
+        "\"Update Available\"",
+        "\"有可用更新\""
+      ],
+      [
+        9302522,
+        "\"Updating\\u2026\"",
+        "\"正在更新…\""
+      ],
+      [
+        9302539,
+        "\"Update Available\"",
+        "\"有可用更新\""
+      ],
+      [
+        9302684,
+        "\"Update Available\"",
+        "\"有可用更新\""
+      ],
+      [
+        9303882,
+        "\"Update Available\"",
+        "\"有可用更新\""
+      ],
+      [
+        9309411,
+        "\"Open IDE\"",
+        "\"打开 IDE\""
+      ],
+      [
+        9309671,
+        "\"Open IDE\"",
+        "\"打开 IDE\""
+      ],
+      [
+        9309969,
+        "\"Open IDE\"",
+        "\"打开 IDE\""
+      ],
+      [
+        9314494,
+        "\"Name\"",
+        "\"名称\""
+      ],
+      [
+        9316218,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9317276,
+        "\"Name\"",
+        "\"名称\""
+      ],
+      [
+        9318009,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9318153,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        9318789,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        9318946,
+        "\"Copy\"",
+        "\"复制\""
+      ],
+      [
+        9319223,
+        "\"Fork\"",
+        "\"从此处分支\""
+      ],
+      [
+        9319377,
+        "\"Fork\"",
+        "\"从此处分支\""
+      ],
+      [
+        9320920,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        9321916,
+        "\"Code Search\"",
+        "\"代码搜索\""
+      ],
+      [
+        9322171,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        9324461,
+        "\"Rename\"",
+        "\"重命名\""
+      ],
+      [
+        9324529,
+        "\"Unpin\"",
+        "\"取消置顶\""
+      ],
+      [
+        9324537,
+        "\"Pin\"",
+        "\"置顶\""
+      ],
+      [
+        9324633,
+        "\"Restore\"",
+        "\"恢复\""
+      ],
+      [
+        9324643,
+        "\"Archive\"",
+        "\"归档\""
+      ],
+      [
+        9326001,
+        "\"Share\"",
+        "\"分享\""
+      ],
+      [
+        9330546,
+        "\"Open in Cider\"",
+        "\"在 Cider 中打开\""
+      ],
+      [
+        9330958,
+        "\"Open in Cider\"",
+        "\"在 Cider 中打开\""
+      ],
+      [
+        9338025,
+        "\"Toggle Side Panel\"",
+        "\"显示或隐藏侧边面板\""
+      ],
+      [
+        9338286,
+        "\"Search Conversations\"",
+        "\"搜索会话\""
+      ],
+      [
+        9338472,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        9358605,
+        "Open ",
+        "打开 "
+      ],
+      [
+        9368705,
+        "\"Loading\\u2026\"",
+        "\"正在加载…\""
+      ],
+      [
+        9389188,
+        "\"Quote\"",
+        "\"引用\""
+      ],
+      [
+        9389681,
+        "\"Side Question\"",
+        "\"补充提问\""
+      ],
+      [
+        9396711,
+        "\"Refreshing credentials...\"",
+        "\"正在刷新凭据…\""
+      ],
+      [
+        9415533,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        9421906,
+        "Open Subagent: ",
+        "打开子智能体："
+      ],
+      [
+        9426484,
+        "\"Restore\"",
+        "\"恢复\""
+      ],
+      [
+        9439810,
+        "\"Retry\"",
+        "\"重试\""
+      ],
+      [
+        9444311,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        9446193,
+        "\"Previous card\"",
+        "\"上一张卡片\""
+      ],
+      [
+        9446422,
+        "\"Card \"",
+        "\"卡片 \""
+      ],
+      [
+        9446506,
+        "\"Next card\"",
+        "\"下一张卡片\""
+      ],
+      [
+        9446606,
+        "Hey ",
+        "你好，"
+      ],
+      [
+        9446614,
+        ", what should we build today?",
+        "！今天想做点什么？"
+      ],
+      [
+        9446653,
+        "\"Hey there, what should we build today?\"",
+        "\"你好！今天想做点什么？\""
+      ],
+      [
+        9446706,
+        "Welcome back, ",
+        "欢迎回来，"
+      ],
+      [
+        9446724,
+        ". Where should we pick up?",
+        "！我们接着做什么？"
+      ],
+      [
+        9446760,
+        "\"Welcome back. Where should we pick up?\"",
+        "\"欢迎回来！我们接着做什么？\""
+      ],
+      [
+        9446813,
+        "Good to see you, ",
+        "很高兴见到你，"
+      ],
+      [
+        9446834,
+        ". What's next?",
+        "！接下来想做什么？"
+      ],
+      [
+        9446858,
+        "\"Good to see you. What's next?\"",
+        "\"很高兴见到你！接下来想做什么？\""
+      ],
+      [
+        9451524,
+        "\"Select a model in the model selector\"",
+        "\"请在模型选择器中选择模型\""
+      ],
+      [
+        9454760,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        9456000,
+        "\"Agent\"",
+        "\"智能体\""
+      ],
+      [
+        9457709,
+        "\"Remove\"",
+        "\"移除\""
+      ],
+      [
+        9478031,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9479846,
+        "\"Hide\"",
+        "\"隐藏\""
+      ],
+      [
+        9484529,
+        "\"Loading conversations...\"",
+        "\"正在加载会话…\""
+      ],
+      [
+        9485508,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        9485701,
+        "\"This Computer\"",
+        "\"本机\""
+      ],
+      [
+        9485809,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        9487627,
+        "\"Next\"",
+        "\"下一步\""
+      ],
+      [
+        9487730,
+        "\"Skip\"",
+        "\"跳过\""
+      ],
+      [
+        9488897,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        9489154,
+        "\"Create\"",
+        "\"创建\""
+      ],
+      [
+        9491502,
+        "\"New Workspace\"",
+        "\"新建工作区\""
+      ],
+      [
+        9491801,
+        "\"New Workspace\"",
+        "\"新建工作区\""
+      ],
+      [
+        9492102,
+        "\"New Workspace\"",
+        "\"新建工作区\""
+      ],
+      [
+        9494013,
+        "\"Mark All as Read\"",
+        "\"全部标为已读\""
+      ],
+      [
+        9494066,
+        "\"This Computer\"",
+        "\"本机\""
+      ],
+      [
+        9494120,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        9494630,
+        "\"Workspace\"",
+        "\"工作区\""
+      ],
+      [
+        9494665,
+        "\"Project\"",
+        "\"项目\""
+      ],
+      [
+        9495614,
+        "\"Display Options\"",
+        "\"显示选项\""
+      ],
+      [
+        9496251,
+        "\"Sort Conversations\"",
+        "\"会话排序\""
+      ],
+      [
+        9496363,
+        "\"Sort Conversations\"",
+        "\"会话排序\""
+      ],
+      [
+        9497640,
+        "\"Filter\"",
+        "\"筛选\""
+      ],
+      [
+        9497746,
+        "\"Filter\"",
+        "\"筛选\""
+      ],
+      [
+        9498150,
+        "\"Automations\"",
+        "\"自动化\""
+      ],
+      [
+        9498318,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9498439,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        9503486,
+        "\"Conversations\"",
+        "\"会话\""
+      ],
+      [
+        9504305,
+        "\"Conversations\"",
+        "\"会话\""
+      ],
+      [
+        9507204,
+        "\"Last Updated\"",
+        "\"上次更新\""
+      ],
+      [
+        9507252,
+        "\"Last Prompt\"",
+        "\"最后一条提示词\""
+      ],
+      [
+        9509065,
+        "\"Sort By\"",
+        "\"排序方式\""
+      ],
+      [
+        9510085,
+        "\"Sort By\"",
+        "\"排序方式\""
+      ],
+      [
+        9514787,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        9514830,
+        "\"Status\"",
+        "\"状态\""
+      ],
+      [
+        9514860,
+        "\"None\"",
+        "\"无\""
+      ],
+      [
+        9517269,
+        "\"Last Updated\"",
+        "\"上次更新\""
+      ],
+      [
+        9517317,
+        "\"Last Prompt\"",
+        "\"最后一条提示词\""
+      ],
+      [
+        9519314,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        9519424,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        9519706,
+        "\"All\"",
+        "\"全部\""
+      ],
+      [
+        9520062,
+        "\"Sort By\"",
+        "\"排序方式\""
+      ],
+      [
+        9520153,
+        "\"Sort By\"",
+        "\"排序方式\""
+      ],
+      [
+        9520228,
+        "\"Last Updated\"",
+        "\"上次更新\""
+      ],
+      [
+        9520816,
+        "\"Mark All as Read\"",
+        "\"全部标为已读\""
+      ],
+      [
+        9524965,
+        "\"Running\"",
+        "\"运行中\""
+      ],
+      [
+        9525004,
+        "\"Unread\"",
+        "\"未读\""
+      ],
+      [
+        9528850,
+        "\"This Computer\"",
+        "\"本机\""
+      ],
+      [
+        9528986,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        9529365,
+        "\"Blocked\"",
+        "\"已阻止\""
+      ],
+      [
+        9529517,
+        "\"Running\"",
+        "\"运行中\""
+      ],
+      [
+        9529527,
+        "\"In Progress\"",
+        "\"进行中\""
+      ],
+      [
+        9529684,
+        "\"Unread\"",
+        "\"未读\""
+      ],
+      [
+        9534707,
+        "\"No conversations yet\"",
+        "\"暂无会话\""
+      ],
+      [
+        9553040,
+        " days",
+        " 天"
+      ],
+      [
+        9571358,
+        "\"Workspaces\"",
+        "\"工作区\""
+      ],
+      [
+        9571371,
+        "\"Projects\"",
+        "\"项目\""
+      ],
+      [
+        9571427,
+        "\"Conversations\"",
+        "\"会话\""
+      ],
+      [
+        9572666,
+        "\"Add Workspace\"",
+        "\"添加工作区\""
+      ],
+      [
+        9572682,
+        "\"Create New Project\"",
+        "\"新建项目\""
+      ],
+      [
+        9572771,
+        "\"Add Workspace\"",
+        "\"添加工作区\""
+      ],
+      [
+        9572787,
+        "\"Create New Project\"",
+        "\"新建项目\""
+      ],
+      [
+        9572853,
+        "\"Display Options\"",
+        "\"显示选项\""
+      ],
+      [
+        9575106,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9575285,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9582261,
+        "\"New Conversation in Workspace\"",
+        "\"在工作区中新建会话\""
+      ],
+      [
+        9582293,
+        "\"New Conversation in Project\"",
+        "\"在项目中新建会话\""
+      ],
+      [
+        9582708,
+        "\"New Conversation in Workspace\"",
+        "\"在工作区中新建会话\""
+      ],
+      [
+        9582740,
+        "\"New Conversation in Project\"",
+        "\"在项目中新建会话\""
+      ],
+      [
+        9584420,
+        "\"Rename Group\"",
+        "\"重命名分组\""
+      ],
+      [
+        9589623,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9589787,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9590000,
+        "\"Automation credentials expired\"",
+        "\"自动化凭据已过期\""
+      ],
+      [
+        9590033,
+        "\"Automation credentials expiring soon\"",
+        "\"自动化凭据即将过期\""
+      ],
+      [
+        9590507,
+        "\"Customizations\"",
+        "\"自定义\""
+      ],
+      [
+        9590668,
+        "\"Customizations\"",
+        "\"自定义\""
+      ],
+      [
+        9590892,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9591182,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9592991,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        9593070,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        9601455,
+        "\"Split Terminal\"",
+        "\"拆分终端\""
+      ],
+      [
+        9601584,
+        "\"Kill Terminal\"",
+        "\"终止终端\""
+      ],
+      [
+        9602250,
+        "\"Split Terminal\"",
+        "\"拆分终端\""
+      ],
+      [
+        9602491,
+        "\"Kill Terminal\"",
+        "\"终止终端\""
+      ],
+      [
+        9607683,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        9607965,
+        "\"New Terminal\"",
+        "\"新建终端\""
+      ],
+      [
+        9608034,
+        "\"New Terminal\"",
+        "\"新建终端\""
+      ],
+      [
+        9609343,
+        "\"New Terminal\"",
+        "\"新建终端\""
+      ],
+      [
+        9619967,
+        "\"Add to Chat\"",
+        "\"添加到对话\""
+      ],
+      [
+        9622418,
+        "\"Show\"",
+        "\"显示\""
+      ],
+      [
+        9626674,
+        "\"Side Question\"",
+        "\"补充提问\""
+      ],
+      [
+        9629179,
+        "\"Open File\"",
+        "\"打开文件\""
+      ],
+      [
+        9632010,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        9637782,
+        "\"Clear filter\"",
+        "\"清除筛选\""
+      ],
+      [
+        9639863,
+        "\"Terminals\"",
+        "\"终端\""
+      ],
+      [
+        9640209,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        9640312,
+        "\"Kill Terminal\"",
+        "\"终止终端\""
+      ],
+      [
+        9640594,
+        "\"Split Terminal\"",
+        "\"拆分终端\""
+      ],
+      [
+        9640857,
+        "\"Kill Terminal\"",
+        "\"终止终端\""
+      ],
+      [
+        9641016,
+        "\"Background Tasks\"",
+        "\"后台任务\""
+      ],
+      [
+        9642019,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        9642106,
+        "\"Refresh\"",
+        "\"刷新\""
+      ],
+      [
+        9643665,
+        "\"Artifact\"",
+        "\"产物\""
+      ],
+      [
+        9644115,
+        "\"Background Task Output\"",
+        "\"后台任务输出\""
+      ],
+      [
+        9644562,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        9645703,
+        "\"Side Panel\"",
+        "\"侧边面板\""
+      ],
+      [
+        9645926,
+        "\"Overview\"",
+        "\"概览\""
+      ],
+      [
+        9648582,
+        "\"Artifacts\"",
+        "\"产物\""
+      ],
+      [
+        9649794,
+        "\"Review\"",
+        "\"审查\""
+      ],
+      [
+        9656377,
+        "\"Ask a side question without interrupting the main conversation\"",
+        "\"在主会话继续进行时提出补充问题\""
+      ],
+      [
+        9659497,
+        "\"Delete Side Question\"",
+        "\"删除补充提问\""
+      ],
+      [
+        9659544,
+        "\"Side Question\"",
+        "\"补充提问\""
+      ],
+      [
+        9660544,
+        "\"Background Task Output\"",
+        "\"后台任务输出\""
+      ],
+      [
+        9663850,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        9667499,
+        "\"Side Panel\"",
+        "\"侧边面板\""
+      ],
+      [
+        9671513,
+        "\"Toggle sidebar\"",
+        "\"显示或隐藏侧边栏\""
+      ],
+      [
+        9671618,
+        "\"Toggle sidebar\"",
+        "\"显示或隐藏侧边栏\""
+      ],
+      [
+        9674625,
+        "\"Review\"",
+        "\"审查\""
+      ],
+      [
+        9674962,
+        "\"Open File\"",
+        "\"打开文件\""
+      ],
+      [
+        9675183,
+        "\"Terminal\"",
+        "\"终端\""
+      ],
+      [
+        9675404,
+        "\"Preview\"",
+        "\"预览\""
+      ],
+      [
+        9675926,
+        "\"Side Question\"",
+        "\"补充提问\""
+      ],
+      [
+        9679252,
+        "\"Subagent\"",
+        "\"子智能体\""
+      ],
+      [
+        9680346,
+        "\"Artifact\"",
+        "\"产物\""
+      ],
+      [
+        9685943,
+        "Open ",
+        "打开 "
+      ],
+      [
+        9690134,
+        "\"Clear search\"",
+        "\"清空搜索\""
+      ],
+      [
+        9692998,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9693238,
+        "\"Plugins\"",
+        "\"插件\""
+      ],
+      [
+        9695657,
+        "\"Close Tab\"",
+        "\"关闭标签页\""
+      ],
+      [
+        9698222,
+        "Close ",
+        "关闭 "
+      ],
+      [
+        9698912,
+        "Close ",
+        "关闭 "
+      ],
+      [
+        9706935,
+        "\"New Tab\"",
+        "\"新建标签页\""
+      ],
+      [
+        9709654,
+        "\"Subagents\"",
+        "\"子智能体\""
+      ],
+      [
+        9709941,
+        "\"Background Tasks\"",
+        "\"后台任务\""
+      ],
+      [
+        9715851,
+        "\"Overview\"",
+        "\"概览\""
+      ],
+      [
+        9739544,
+        "Remove ",
+        "移除 "
+      ],
+      [
+        9739954,
+        "\"Add files\"",
+        "\"添加文件\""
+      ],
+      [
+        9740874,
+        "\"Send\"",
+        "\"发送\""
+      ],
+      [
+        9766400,
+        "\"New Conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9767239,
+        "\"Search Conversations\"",
+        "\"搜索会话\""
+      ],
+      [
+        9767373,
+        "\"Search Conversations\"",
+        "\"搜索会话\""
+      ],
+      [
+        9768571,
+        "\"Toggle Side Panel\"",
+        "\"显示或隐藏侧边面板\""
+      ],
+      [
+        9768671,
+        "\"Toggle Side Panel\"",
+        "\"显示或隐藏侧边面板\""
+      ],
+      [
+        9775171,
+        "\"Loading...\"",
+        "\"正在加载…\""
+      ],
+      [
+        9776877,
+        "\"Conversation History\"",
+        "\"会话历史\""
+      ],
+      [
+        9781258,
+        "\"New conversation\"",
+        "\"新建会话\""
+      ],
+      [
+        9801227,
+        "\"Custom\"",
+        "\"自定义\""
+      ],
+      [
+        9805163,
+        "\"Saved\"",
+        "\"已保存\""
+      ],
+      [
+        9805171,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        9805327,
+        "\"Reset\"",
+        "\"重置\""
+      ],
+      [
+        9815911,
+        "\"Settings\"",
+        "\"设置\""
+      ],
+      [
+        9816299,
+        "\"Schedule\"",
+        "\"计划\""
+      ],
+      [
+        9816428,
+        "\"Agent\"",
+        "\"智能体\""
+      ],
+      [
+        9817947,
+        "\"Schedule\"",
+        "\"计划\""
+      ],
+      [
+        9818172,
+        "\"Model\"",
+        "\"模型\""
+      ],
+      [
+        9818429,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        9818551,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9819288,
+        "\"Show less\"",
+        "\"收起\""
+      ],
+      [
+        9820063,
+        "\"Edit\"",
+        "\"编辑\""
+      ],
+      [
+        9820714,
+        "\"Save\"",
+        "\"保存\""
+      ],
+      [
+        9820832,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9855022,
+        "Remove ",
+        "移除 "
+      ],
+      [
+        9855049,
+        "Remove ",
+        "移除 "
+      ],
+      [
+        9866170,
+        "\"Clear\"",
+        "\"清空\""
+      ],
+      [
+        9869645,
+        "\"Required\"",
+        "\"必填\""
+      ],
+      [
+        9871081,
+        "\"Optional\"",
+        "\"选填\""
+      ],
+      [
+        9872638,
+        "\"Show less\"",
+        "\"收起\""
+      ],
+      [
+        9876458,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        9877642,
+        "\"Model\"",
+        "\"模型\""
+      ],
+      [
+        9880852,
+        "\"Refreshing credentials...\"",
+        "\"正在刷新凭据…\""
+      ],
+      [
+        9880880,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        9881877,
+        "Failed to update \"",
+        "无法更新“"
+      ],
+      [
+        9881899,
+        "\"",
+        "”"
+      ],
+      [
+        9882566,
+        "\"Enable\"",
+        "\"启用\""
+      ],
+      [
+        9884918,
+        "\"Error\"",
+        "\"错误\""
+      ],
+      [
+        9885215,
+        "See all (",
+        "查看全部（"
+      ],
+      [
+        9885235,
+        ")",
+        "）"
+      ],
+      [
+        9885238,
+        "\"See less\"",
+        "\"收起\""
+      ],
+      [
+        9886614,
+        "Failed to update \"",
+        "无法更新“"
+      ],
+      [
+        9886648,
+        "\"",
+        "”"
+      ],
+      [
+        9888942,
+        "Restarted \"",
+        "已重启“"
+      ],
+      [
+        9888957,
+        "\".",
+        "”。"
+      ],
+      [
+        9891375,
+        "\"Actions\"",
+        "\"操作\""
+      ],
+      [
+        9891623,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        9891831,
+        "\"Run Now\"",
+        "\"立即运行\""
+      ],
+      [
+        9892183,
+        "Run ",
+        "立即运行 "
+      ],
+      [
+        9892191,
+        " now",
+        ""
+      ],
+      [
+        9892377,
+        "Delete ",
+        "删除 "
+      ],
+      [
+        9893082,
+        "\"Run Now\"",
+        "\"立即运行\""
+      ],
+      [
+        9893199,
+        "\"Close\"",
+        "\"关闭\""
+      ],
+      [
+        9894660,
+        "\"Starting\"",
+        "\"正在启动\""
+      ],
+      [
+        9896060,
+        "Deleted \"",
+        "已删除“"
+      ],
+      [
+        9896073,
+        "\".",
+        "”。"
+      ],
+      [
+        9896181,
+        "Failed to delete \"",
+        "无法删除“"
+      ],
+      [
+        9896203,
+        "\"",
+        "”"
+      ],
+      [
+        9902854,
+        "\"Next\"",
+        "\"下一步\""
+      ],
+      [
+        9903006,
+        "\"Approximate; may start a few minutes later\"",
+        "\"预计时间，实际可能晚几分钟启动\""
+      ],
+      [
+        9904685,
+        "Restarted \"",
+        "已重启“"
+      ],
+      [
+        9904700,
+        "\".",
+        "”。"
+      ],
+      [
+        9905485,
+        "Run ",
+        "立即运行 "
+      ],
+      [
+        9905493,
+        " now",
+        ""
+      ],
+      [
+        9906390,
+        "\"Running\"",
+        "\"运行中\""
+      ],
+      [
+        9906490,
+        "\"Error\"",
+        "\"错误\""
+      ],
+      [
+        9908077,
+        "Failed to update \"",
+        "无法更新“"
+      ],
+      [
+        9908111,
+        "\"",
+        "”"
+      ],
+      [
+        9908336,
+        "Failed to delete \"",
+        "无法删除“"
+      ],
+      [
+        9908370,
+        "\"",
+        "”"
+      ],
+      [
+        9908442,
+        "Deleted \"",
+        "已删除“"
+      ],
+      [
+        9908467,
+        "\".",
+        "”。"
+      ],
+      [
+        9908657,
+        "\"Actions\"",
+        "\"操作\""
+      ],
+      [
+        9909001,
+        "\"Delete\"",
+        "\"删除\""
+      ],
+      [
+        9910310,
+        "Run ",
+        "立即运行 "
+      ],
+      [
+        9910330,
+        " now",
+        ""
+      ],
+      [
+        9911149,
+        "\"Standalone\"",
+        "\"独立会话\""
+      ],
+      [
+        9911745,
+        "\"No projects created\"",
+        "\"尚未创建项目\""
+      ],
+      [
+        9913033,
+        "\"New Project\"",
+        "\"新建项目\""
+      ],
+      [
+        9913261,
+        "\"Name\"",
+        "\"名称\""
+      ],
+      [
+        9914107,
+        "\"This computer\"",
+        "\"本机\""
+      ],
+      [
+        9914160,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        9914219,
+        "\"Schedule\"",
+        "\"计划\""
+      ],
+      [
+        9914280,
+        "\"Schedule\"",
+        "\"计划\""
+      ],
+      [
+        9919329,
+        "\"Untitled\"",
+        "\"未命名\""
+      ],
+      [
+        9919353,
+        "\"Name\"",
+        "\"名称\""
+      ],
+      [
+        9919941,
+        "\"This computer\"",
+        "\"本机\""
+      ],
+      [
+        9919957,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        9920133,
+        "\"This computer\"",
+        "\"本机\""
+      ],
+      [
+        9920149,
+        "\"Remote\"",
+        "\"远程\""
+      ],
+      [
+        9920276,
+        "\"Project\"",
+        "\"项目\""
+      ],
+      [
+        9920778,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9920913,
+        "\"Creating\\u2026\"",
+        "\"正在创建…\""
+      ],
+      [
+        9920930,
+        "\"Create\"",
+        "\"创建\""
+      ],
+      [
+        9923543,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        9927587,
+        "\"Details\"",
+        "\"详情\""
+      ],
+      [
+        9927799,
+        "\"Project\"",
+        "\"项目\""
+      ],
+      [
+        9928177,
+        "\"Model\"",
+        "\"模型\""
+      ],
+      [
+        9928328,
+        "\"Environment\"",
+        "\"环境\""
+      ],
+      [
+        9929534,
+        "\"Back\"",
+        "\"返回\""
+      ],
+      [
+        9929603,
+        "\"Cancel\"",
+        "\"取消\""
+      ],
+      [
+        9929757,
+        "\"Creating\\u2026\"",
+        "\"正在创建…\""
+      ],
+      [
+        9929794,
+        "\"Next\"",
+        "\"下一步\""
+      ],
+      [
+        9932004,
+        "Deleted \"",
+        "已删除“"
+      ],
+      [
+        9932018,
+        "\".",
+        "”。"
+      ],
+      [
+        9932117,
+        "Failed to delete \"",
+        "无法删除“"
+      ],
+      [
+        9932140,
+        "\"",
+        "”"
+      ],
+      [
+        9935236,
+        "Add ",
+        "添加 "
+      ],
+      [
+        9935381,
+        "\"New\"",
+        "\"新建\""
+      ],
+      [
+        9935662,
+        "\"Search\"",
+        "\"搜索\""
+      ],
+      [
+        9939006,
+        "\"Error: \"",
+        "\"错误：\""
+      ],
+      [
+        11647864,
+        "\"Pause\"",
+        "\"暂停\""
+      ],
+      [
+        11647968,
+        "\"Pause\"",
+        "\"暂停\""
+      ],
+      [
+        11648172,
+        "\"Resume\"",
+        "\"继续\""
+      ],
+      [
+        11648260,
+        "\"Resume\"",
+        "\"继续\""
+      ],
+      [
+        11648437,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        11648520,
+        "\"Stop\"",
+        "\"停止\""
+      ],
+      [
+        11648608,
+        "\"Stopped\"",
+        "\"已停止\""
+      ],
+      [
+        11654940,
+        "\"No agent is working right now.\"",
+        "\"当前没有智能体正在处理任务。\""
+      ],
+      [
+        11656820,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        11661310,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        11661542,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        11701925,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        11702269,
+        "\"Agents\"",
+        "\"智能体\""
+      ],
+      [
+        11723826,
+        "\"Dismiss\"",
+        "\"关闭\""
+      ],
+      [
+        11727831,
+        "\"Got it\"",
+        "\"知道了\""
+      ],
+      [
+        11731667,
+        "\"Allow\"",
+        "\"允许\""
+      ],
+      [
+        11747431,
+        "\"Access rules\"",
+        "\"访问规则\""
+      ],
+      [
+        11749280,
+        "\"Access rules\"",
+        "\"访问规则\""
+      ],
+      [
+        11750749,
+        "\"Access rules\"",
+        "\"访问规则\""
+      ],
+      [
+        11752701,
+        "\"Access rules\"",
+        "\"访问规则\""
+      ],
+      [
+        11762559,
+        "\"Enable fine-grained GitHub permissions and define the org, repository, and resource-level access the agent is allowed to use.\"",
+        "\"启用 GitHub 精细权限，逐级设置智能体可以访问的组织、仓库和资源。\""
+      ],
+      [
+        11763696,
+        "\"GitHub Permissions\"",
+        "\"GitHub 权限\""
+      ],
+      [
+        11763729,
+        "\"Manage fine-grained permissions for GitHub.\"",
+        "\"管理 GitHub 精细权限。\""
+      ],
+      [
+        11810652,
+        "\"Appearance\"",
+        "\"外观\""
+      ],
+      [
+        11810733,
+        "\"Theme\"",
+        "\"主题\""
+      ],
+      [
+        12140592,
+        "\"Unknown\"",
+        "\"未知\""
+      ],
+      [
+        12140674,
+        "\"Online\"",
+        "\"在线\""
+      ],
+      [
+        12140821,
+        "\"Offline\"",
+        "\"离线\""
+      ],
+      [
+        12143388,
+        "\"Get started\"",
+        "\"开始使用\""
+      ],
+      [
+        12151409,
+        "\"Previous Page\"",
+        "\"上一页\""
+      ],
+      [
+        12151431,
+        "\"Previous Page\"",
+        "\"上一页\""
+      ],
+      [
+        12152103,
+        "\"Next Page\"",
+        "\"下一页\""
+      ],
+      [
+        12152121,
+        "\"Next Page\"",
+        "\"下一页\""
+      ],
+      [
+        12152800,
+        "\"Zoom Out\"",
+        "\"缩小\""
+      ],
+      [
+        12152817,
+        "\"Zoom Out\"",
+        "\"缩小\""
+      ],
+      [
+        12153457,
+        "\"Zoom In\"",
+        "\"放大\""
+      ],
+      [
+        12153473,
+        "\"Zoom In\"",
+        "\"放大\""
+      ],
+      [
+        12154985,
+        "\"More toolbar actions\"",
+        "\"更多工具栏操作\""
+      ],
+      [
+        12155242,
+        "\"More toolbar actions\"",
+        "\"更多工具栏操作\""
+      ],
+      [
+        12158269,
+        "\"Zoom\"",
+        "\"缩放\""
+      ],
+      [
+        12309076,
+        "Page ",
+        "页面 "
+      ],
+      [
+        12309085,
+        " failed to load",
+        " 加载失败"
+      ],
+      [
+        12328458,
+        "\"Comments\"",
+        "\"评论\""
+      ],
+      [
+        12328600,
+        "\"Comments\"",
+        "\"评论\""
+      ],
+      [
+        12330869,
+        "\"Previous Page\"",
+        "\"上一页\""
+      ],
+      [
+        12330891,
+        "\"Previous Page\"",
+        "\"上一页\""
+      ],
+      [
+        12331433,
+        "\"Next Page\"",
+        "\"下一页\""
+      ],
+      [
+        12331451,
+        "\"Next Page\"",
+        "\"下一页\""
+      ],
+      [
+        12335588,
+        "\"Search\"",
+        "\"搜索\""
+      ],
+      [
+        12335757,
+        "\"Previous match\"",
+        "\"上一个匹配项\""
+      ],
+      [
+        12335780,
+        "\"Previous match\"",
+        "\"上一个匹配项\""
+      ],
+      [
+        12335923,
+        "\"Next match\"",
+        "\"下一个匹配项\""
+      ],
+      [
+        12335942,
+        "\"Next match\"",
+        "\"下一个匹配项\""
+      ],
+      [
+        12338253,
+        "\"Zoom Out\"",
+        "\"缩小\""
+      ],
+      [
+        12338271,
+        "\"Zoom Out\"",
+        "\"缩小\""
+      ],
+      [
+        12338785,
+        "\"Zoom In\"",
+        "\"放大\""
+      ],
+      [
+        12338801,
+        "\"Zoom In\"",
+        "\"放大\""
+      ],
+      [
+        12342631,
+        "\"More toolbar actions\"",
+        "\"更多工具栏操作\""
+      ],
+      [
+        12342856,
+        "\"More toolbar actions\"",
+        "\"更多工具栏操作\""
+      ],
+      [
+        12482392,
+        "\"Unknown\"",
+        "\"未知\""
+      ],
+      [
+        12484865,
+        "\"Connect\"",
+        "\"连接\""
+      ],
+      [
+        12485057,
+        "\"Connect GitHub\"",
+        "\"连接 GitHub\""
+      ],
+      [
+        12495443,
+        "\"Keeps working in this folder. Nothing is copied.\"",
+        "\"继续在当前文件夹工作，无需复制任何内容。\""
+      ],
+      [
+        12521056,
+        "\"Current workspace\"",
+        "\"当前工作区\""
+      ],
+      [
+        12545026,
+        "Connected to ",
+        "已连接到 "
+      ],
+      [
+        12545146,
+        "\"This Computer\"",
+        "\"本机\""
+      ],
+      [
+        12575644,
+        "\"Commit\"",
+        "\"提交\""
+      ],
+      [
+        12577993,
+        "\"Push\"",
+        "\"推送\""
+      ],
+      [
+        12578102,
+        "\"Push\"",
+        "\"推送\""
+      ],
+      [
+        12580750,
+        "\"Staged index changes and working tree changes\"",
+        "\"已暂存的改动和工作树改动\""
+      ],
+      [
+        12580921,
+        "\"Branch\"",
+        "\"分支\""
+      ],
+      [
+        12581091,
+        "\"Agent Edits\"",
+        "\"智能体的修改\""
+      ]
+    ]
+  }
+}

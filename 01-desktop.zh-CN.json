@@ -1,0 +1,600 @@
+{
+  "version": "2.34.0",
+  "edits": {
+    "dist/menu.js": [
+      [
+        3458,
+        "Actual Size",
+        "实际大小"
+      ],
+      [
+        3836,
+        "Zoom In",
+        "放大"
+      ],
+      [
+        4391,
+        "Zoom In",
+        "放大"
+      ],
+      [
+        4787,
+        "Zoom Out",
+        "缩小"
+      ],
+      [
+        6131,
+        "New Window",
+        "新建窗口"
+      ],
+      [
+        7406,
+        "Docs",
+        "文档"
+      ],
+      [
+        8624,
+        "Connect to",
+        "连接到"
+      ],
+      [
+        8859,
+        "Reopen Locally",
+        "在本机重新打开"
+      ]
+    ],
+    "dist/main.js": [
+      [
+        21850,
+        "language_server binary not found at:",
+        "在以下位置找不到 language_server 程序："
+      ],
+      [
+        21921,
+        "Please build set a valid location.",
+        "请构建该程序并指定有效的位置。"
+      ],
+      [
+        22099,
+        "Binary not found",
+        "找不到程序文件"
+      ],
+      [
+        22861,
+        "WSL distro not found",
+        "找不到 WSL 发行版"
+      ],
+      [
+        22910,
+        "The WSL distro \"${WSL_DISTRO}\" is no longer installed.",
+        "WSL 发行版“${WSL_DISTRO}”已卸载。"
+      ],
+      [
+        23004,
+        "opened on Windows instead.",
+        "已在 Windows 本机打开。"
+      ],
+      [
+        23887,
+        "Failed to install the server into WSL distro \"${WSL_DISTRO}\":",
+        "无法将服务器安装到 WSL 发行版“${WSL_DISTRO}”："
+      ],
+      [
+        24246,
+        "setup failed",
+        "设置失败"
+      ],
+      [
+        28005,
+        "Startup failed",
+        "启动失败"
+      ],
+      [
+        31380,
+        "New Window",
+        "新建窗口"
+      ],
+      [
+        31951,
+        "No agents running",
+        "没有正在运行的智能体"
+      ],
+      [
+        32091,
+        "Open",
+        "打开"
+      ],
+      [
+        32276,
+        "Quit",
+        "退出"
+      ],
+      [
+        38196,
+        "Cancel', 'Quit",
+        "取消', '退出"
+      ],
+      [
+        38273,
+        "Confirm Quit",
+        "确认退出"
+      ],
+      [
+        38306,
+        "Are you sure you want to quit?",
+        "确定要退出吗？"
+      ],
+      [
+        38356,
+        "There may be agents or background tasks running.",
+        "可能仍有智能体或后台任务正在运行。"
+      ]
+    ],
+    "dist/updater.js": [
+      [
+        8288,
+        "Check for Updates",
+        "检查更新"
+      ],
+      [
+        8334,
+        "No updates available",
+        "已是最新版本"
+      ],
+      [
+        8384,
+        "OK",
+        "确定"
+      ]
+    ],
+    "dist/ipcHandlers.js": [
+      [
+        8564,
+        "Cannot open folder",
+        "无法打开文件夹"
+      ],
+      [
+        8771,
+        "Folder is on the Windows filesystem",
+        "文件夹位于 Windows 文件系统上"
+      ],
+      [
+        9098,
+        "Open workspace",
+        "打开工作区"
+      ],
+      [
+        10685,
+        "Open workspaces",
+        "打开工作区"
+      ],
+      [
+        34165,
+        "Select Download Folder",
+        "选择下载文件夹"
+      ]
+    ],
+    "dist/ideInstall/wizardHtml.js": [
+      [
+        605,
+        "Welcome to",
+        "欢迎使用"
+      ],
+      [
+        5501,
+        "Icon",
+        "图标"
+      ],
+      [
+        5531,
+        "Welcome to the new Antigravity!",
+        "欢迎使用新版 Antigravity！"
+      ],
+      [
+        5577,
+        "Antigravity has been redesigned to put agents first with new capabilities. If you'd still like a code editor, you can download it as a separate app named <b>Antigravity IDE</b>.",
+        "新版 Antigravity 围绕智能体重新设计，加入了多项新功能。如果你还需要代码编辑器，可以单独下载 <b>Antigravity IDE</b>。"
+      ],
+      [
+        5921,
+        "Download the",
+        "下载"
+      ],
+      [
+        6056,
+        "Explore the new",
+        "开始使用新版"
+      ]
+    ],
+    "dist/remote/disconnectedPage.js": [
+      [
+        2268,
+        "Reconnect",
+        "重新连接"
+      ],
+      [
+        2291,
+        "Stop Server",
+        "停止服务器"
+      ],
+      [
+        2317,
+        "Close",
+        "关闭"
+      ],
+      [
+        3301,
+        "Restarting",
+        "正在重启"
+      ],
+      [
+        3352,
+        "Reconnecting",
+        "正在重新连接"
+      ],
+      [
+        3384,
+        "Disconnected",
+        "连接已断开"
+      ],
+      [
+        3441,
+        "Restarting the Antigravity server on ${host}",
+        "正在重启 ${host} 上的 Antigravity 服务器"
+      ],
+      [
+        3526,
+        "Reconnecting to",
+        "正在重新连接到"
+      ],
+      [
+        3569,
+        "Disconnected from ${host}",
+        "已断开与 ${host} 的连接"
+      ],
+      [
+        3747,
+        "This window opens it again once it has started.",
+        "服务器启动后，此窗口将自动重新连接。"
+      ],
+      [
+        3869,
+        "Its server on ${host} stopped, and its agents with it.",
+        "${host} 上的服务器及其智能体已停止。"
+      ],
+      [
+        3944,
+        "Agents keep running on ${host}.",
+        "智能体仍在 ${host} 上运行。"
+      ],
+      [
+        4029,
+        "Its agents on ${host} stopped with it.",
+        "${host} 上的智能体已随服务器停止。"
+      ],
+      [
+        4088,
+        "Agents keep running on ${host} unless its server stopped.",
+        "只要服务器仍在运行，${host} 上的智能体就会继续运行。"
+      ]
+    ],
+    "dist/remote/remoteManager.js": [
+      [
+        14229,
+        "Choose an SSH config file",
+        "选择 SSH 配置文件"
+      ],
+      [
+        15494,
+        "${name} can't be the SSH config file",
+        "无法将 ${name} 用作 SSH 配置文件"
+      ],
+      [
+        15914,
+        "Choose another SSH config file",
+        "选择其他 SSH 配置文件"
+      ],
+      [
+        16002,
+        "Choose Another File…', 'Cancel",
+        "选择其他文件…', '取消"
+      ],
+      [
+        17607,
+        "connection failed",
+        "连接失败"
+      ],
+      [
+        48233,
+        "Could not restart the SSH server",
+        "无法重启 SSH 服务器"
+      ],
+      [
+        48309,
+        "still runs Antigravity server ${running}.",
+        "上仍在运行 Antigravity 服务器 ${running}。"
+      ],
+      [
+        56527,
+        "Stop Server', 'Cancel",
+        "停止服务器', '取消"
+      ],
+      [
+        56647,
+        "Stop SSH server",
+        "停止 SSH 服务器"
+      ],
+      [
+        56695,
+        "Stop the Antigravity server on ${entry.label}?",
+        "停止 ${entry.label} 上的 Antigravity 服务器？"
+      ],
+      [
+        56773,
+        "Agents running on this host will stop and its window will close.",
+        "这台主机上运行的智能体将停止，相应窗口也会关闭。"
+      ],
+      [
+        58333,
+        "Stop SSH server",
+        "停止 SSH 服务器"
+      ],
+      [
+        58373,
+        "Not connected to",
+        "尚未连接到"
+      ],
+      [
+        58422,
+        "Reconnect first, then stop its server.",
+        "请先重新连接，再停止服务器。"
+      ],
+      [
+        62814,
+        "Allow', \"Don't Allow\"",
+        "允许', '不允许'"
+      ],
+      [
+        63021,
+        "Microphone access",
+        "麦克风访问"
+      ],
+      [
+        63063,
+        "Allow ${label} to use your microphone?",
+        "允许 ${label} 使用你的麦克风吗？"
+      ],
+      [
+        64518,
+        "Sign In', 'Cancel",
+        "登录', '取消"
+      ],
+      [
+        64697,
+        "Sign in",
+        "登录"
+      ],
+      [
+        64729,
+        "Sign in to your organization for ${entry.label}?",
+        "要为 ${entry.label} 登录你的组织账号吗？"
+      ],
+      [
+        66012,
+        "Continue', 'Cancel",
+        "继续', '取消"
+      ],
+      [
+        66192,
+        "Sign in",
+        "登录"
+      ],
+      [
+        66224,
+        "Finish this sign-in on ${entry.label}?",
+        "要在 ${entry.label} 上完成登录吗？"
+      ],
+      [
+        71649,
+        "Take Over', 'Cancel",
+        "接管', '取消"
+      ],
+      [
+        71731,
+        "Shared home directory",
+        "共享主目录"
+      ],
+      [
+        73187,
+        "Restart', 'Later",
+        "重启', '稍后"
+      ],
+      [
+        73339,
+        "Restart SSH server",
+        "重启 SSH 服务器"
+      ],
+      [
+        73387,
+        "is running server ${running}; this app is ${expected}. Restart the server now?",
+        "正在运行服务器版本 ${running}，当前应用版本为 ${expected}。立即重启服务器吗？"
+      ]
+    ],
+    "dist/remote/sshErrorText.js": [
+      [
+        736,
+        "Error code: ${err.code}\\nLogs: ",
+        "错误代码：${err.code}\\n日志："
+      ],
+      [
+        923,
+        "reported: ",
+        "报告："
+      ],
+      [
+        1645,
+        "The connection was closed before it finished.",
+        "连接尚未建立就已关闭。"
+      ],
+      [
+        2185,
+        "Windows SSH hosts aren't supported yet.",
+        "暂不支持 Windows SSH 主机。"
+      ],
+      [
+        2851,
+        "Logs: ",
+        "日志："
+      ]
+    ],
+    "dist/remote/sshPrompts.js": [
+      [
+        14584,
+        "Cancel",
+        "取消"
+      ],
+      [
+        14637,
+        "Continue",
+        "继续"
+      ],
+      [
+        18297,
+        "Yes', 'No'] : ['Cancel",
+        "是', '否'] : ['取消"
+      ]
+    ],
+    "dist/deviceChooser.js": [
+      [
+        1186,
+        "Unknown device",
+        "未知设备"
+      ],
+      [
+        1330,
+        "Unknown device",
+        "未知设备"
+      ],
+      [
+        8991,
+        "Connect a device",
+        "连接设备"
+      ],
+      [
+        9054,
+        "wants to connect to a ",
+        "请求连接"
+      ],
+      [
+        9170,
+        "Select a device:",
+        "请选择设备："
+      ],
+      [
+        9219,
+        "No compatible devices found.",
+        "未找到兼容的设备。"
+      ],
+      [
+        9324,
+        "Cancel",
+        "取消"
+      ]
+    ],
+    "dist/webauthn.js": [
+      [
+        10221,
+        "Choose a Passkey",
+        "选择通行密钥"
+      ],
+      [
+        10274,
+        "Sign in to",
+        "登录"
+      ],
+      [
+        10331,
+        "Select a passkey account to continue:",
+        "请选择要用于登录的通行密钥账号："
+      ],
+      [
+        10424,
+        "Cancel",
+        "取消"
+      ]
+    ],
+    "dist/qrEncoder.js": [
+      [
+        36117,
+        "Passkey QR code",
+        "通行密钥二维码"
+      ]
+    ],
+    "dist/webviewPopupSecurity.js": [
+      [
+        3020,
+        "This page",
+        "当前页面"
+      ],
+      [
+        4454,
+        "Connection info",
+        "连接信息"
+      ],
+      [
+        5251,
+        "Connection info",
+        "连接信息"
+      ],
+      [
+        5369,
+        "OK",
+        "确定"
+      ]
+    ],
+    "dist/cablev2.js": [
+      [
+        50361,
+        "Passkeys",
+        "通行密钥"
+      ],
+      [
+        53885,
+        "Cancel",
+        "取消"
+      ],
+      [
+        56914,
+        "Passkeys",
+        "通行密钥"
+      ]
+    ],
+    "dist/computer/hud.js": [
+      [
+        3035,
+        "Stop",
+        "停止"
+      ],
+      [
+        3075,
+        "Let agents use this Mac again. The stopped task does not restart.",
+        "重新允许智能体使用这台 Mac。已停止的任务不会重新启动。"
+      ],
+      [
+        3142,
+        "Allow again",
+        "重新允许"
+      ],
+      [
+        4470,
+        "Stopped",
+        "已停止"
+      ],
+      [
+        4608,
+        "Stop",
+        "停止"
+      ]
+    ]
+  }
+}
